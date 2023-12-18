@@ -2,7 +2,7 @@ import puppeteer from 'puppeteer';
 import fs from 'fs/promises';
 import saveFile from './helper/saveFile.js';
 
-const url = 'https://wiki.hoyolab.com/pc/genshin/entry/49';
+const url = 'https://wiki.hoyolab.com/pc/genshin/entry/34';
 
 const scraper = async () => {
   const browser = await puppeteer.launch();
@@ -16,19 +16,18 @@ const scraper = async () => {
     const characterMiniData = document.querySelectorAll('.c-entry-tag-item');
 
     let desc = descContainer ? descContainer.querySelector('.et-text-tiptap-editor > div > p').innerText : 'N/A';
-    let icon = galleryContainer ? document.querySelector('.detail-header-cover-avatar > .d-img-show').getAttribute('src') : 'N/A';
-    icon = icon ? icon.replace('/_ipx/f_webp/', '') : 'N/A';
+    let profile = galleryContainer ? 'https://wiki.hoyolab.com' + document.querySelector('.detail-header-cover-avatar > .d-img-show').getAttribute('src') : 'N/A';
     let gacha = galleryContainer ? galleryContainer.querySelector('.d-gallery-img > img').getAttribute('origin-src') : 'N/A';
     let card = galleryContainer ? galleryContainer.querySelector('.d-gallery-card > img').getAttribute('origin-src') : 'N/A';
 
     let images = {
       gacha,
       card,
-      icon
+      profile
     }
-    let cData = [];
+    let cdata = [];
     if (characterMiniData) {
-      cData = Array.from(characterMiniData).map(item => item.innerText);
+      cdata = Array.from(characterMiniData).map(item => item.innerText);
     }
 
     const baseInfoData = Array.from(baseinfo).reduce((acc, node) => {
@@ -48,25 +47,57 @@ const scraper = async () => {
     );
     modifiedObj['versionRelease'] = modifiedObj['version released'];
     delete modifiedObj['version released'];
+    modifiedObj['versionRelease'] = parseFloat(modifiedObj['versionRelease']);
+
+    const rarityPattern = /\b(\d)-Star\b/;
+    const rarityMatch = cdata.find(item => rarityPattern.test(item));
+    let rarity = 'N/A';
+    if (rarityMatch) {
+      const matchResult = rarityPattern.exec(rarityMatch);
+      if (matchResult && matchResult[1]) {
+        rarity = parseInt(matchResult[1], 10);
+      }
+    }
+
+    const weaponTypes = ['Polearm', 'Bow', 'Catalyst', 'Claymore', 'Sword'];
+
+    const weaponMatch = cdata.find(item => weaponTypes.includes(item));
+    let weapon = 'N/A'
+    if (weaponMatch) {
+      weapon = weaponMatch;
+    }
+
+    const regionNames = ['Mondstadt', 'Liyue Harbor', 'Inazuma City', 'Sumeru', 'Fontaine'];
+
+    const regionMatch = cdata.find(item => regionNames.includes(item));
+    let region = 'N/A';
+    if (regionMatch) {
+      region = regionMatch;
+    }
+
+    let finalObj = modifiedObj['gnosis'] ? { ...modifiedObj, ['vision']: modifiedObj['gnosis'], gnosis: undefined } : { ...modifiedObj };
     let mainObj = {
-      ...modifiedObj,
+      ...finalObj,
       images,
       desc,
       wikiUrl,
-      cData,
-      rarity: "N/A",
-      weapon: "N/A",
-      region: "N/A",
+      cdata,
+      rarity,
+      weapon,
+      region,
       model: "N/A"
     }
 
     // return {baseInfoData, images};
-    return mainObj
+    resultArray = [];
+    resultArray.push(mainObj);
+    return resultArray;
+    // return mainObj
 
   }, url);
 
   console.log(mainContent);
-  const name = mainContent.name;
+  const name = mainContent[0].name;
 
     // const mainTitle = await page.evaluate(() => {
       // const titleNode = document.querySelectorAll('.detail-header-cover-name');
