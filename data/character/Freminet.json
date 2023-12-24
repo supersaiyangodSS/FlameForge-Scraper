@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Freminet",
+    "birthday": "9/24",
+    "constellation": "Automaton",
+    "title": "Yearning for Unseen Depths",
+    "vision": "Cryo",
+    "affiliation": "Hotel Bouffes d'ete",
+    "versionRelease": 4,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703324368/FlameForge/characters/character1703324382377.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703324384/FlameForge/characters/character1703324394296.png",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703324407/FlameForge/characters/character1703324421860.webp"
+    },
+    "desc": "A reserved young man who is well-versed in diving. Beneath his distant, icy demeanor lies a pure heart bereft of all flaws.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/3964",
+    "cdata": [
+      "Cryo",
+      "Claymore",
+      "Fontaine",
+      "4-Star"
+    ],
+    "rarity": 4,
+    "weapon": "Claymore",
+    "region": "Fontaine"
+  }
+]

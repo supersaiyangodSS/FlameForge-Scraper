@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Yaoyao",
+    "birthday": "3/6",
+    "constellation": "Osmanthus",
+    "title": "Burgeoning Grace",
+    "vision": "Dendro",
+    "affiliation": "Streetward Rambler's Abode",
+    "versionRelease": 3.4,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703409661/FlameForge/characters/character1703409678040.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703409673/FlameForge/characters/character1703409689394.png",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703409691/FlameForge/characters/character1703409708129.webp"
+    },
+    "desc": "Streetward Rambler's youngest disciple. A gentle and caring \"little adult.\"",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/3335",
+    "cdata": [
+      "Liyue Harbor",
+      "4-Star",
+      "HP",
+      "Dendro",
+      "Polearm"
+    ],
+    "rarity": 4,
+    "weapon": "Polearm",
+    "region": "Liyue Harbor"
+  }
+]

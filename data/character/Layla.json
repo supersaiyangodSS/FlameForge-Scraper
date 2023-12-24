@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Layla",
+    "birthday": "12/19",
+    "constellation": "Luscinia",
+    "title": "Fantastical Evening Star",
+    "vision": "Cryo",
+    "affiliation": "Rtawahist",
+    "versionRelease": 3.2,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703410003/FlameForge/characters/character1703410020020.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703410018/FlameForge/characters/character1703410034691.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703410031/FlameForge/characters/character1703410048275.webp"
+    },
+    "desc": "A Rtawahist student who specializes in Theoretical Astrology. Heavily prone to somnambulism and locked in a grinding war with sleep deprivation, the problem of restful slumber is a most troubling one to her.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/2859",
+    "cdata": [
+      "HP",
+      "Cryo",
+      "Sumeru",
+      "4-Star",
+      "Sword"
+    ],
+    "rarity": 4,
+    "weapon": "Sword",
+    "region": "Sumeru"
+  }
+]

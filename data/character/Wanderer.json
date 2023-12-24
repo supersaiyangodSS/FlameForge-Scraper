@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Wanderer",
+    "birthday": "1/3",
+    "constellation": "Peregrinus",
+    "title": "Eons Adrift",
+    "vision": "Anemo",
+    "affiliation": "None",
+    "versionRelease": 3.3,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703409709/FlameForge/characters/character1703409724058.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703409727/FlameForge/characters/character1703409742599.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703409749/FlameForge/characters/character1703409766529.webp"
+    },
+    "desc": "A wayfaring figure whose identity is a mystery. He dresses like a mountain ascetic, but he certainly does not act the part.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/2968",
+    "cdata": [
+      "Catalyst",
+      "Anemo",
+      "5-Star",
+      "CRIT Rate"
+    ],
+    "rarity": 5,
+    "weapon": "Catalyst",
+    "region": "N/A"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Neuvillette",
+    "birthday": "12/18",
+    "constellation": "Leviathan Judicator",
+    "title": "Ordainer of Inexorable Judgment",
+    "vision": "Hydro",
+    "affiliation": "Court of Fontaine",
+    "versionRelease": 4.1,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703323888/FlameForge/characters/character1703323901177.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703323906/FlameForge/characters/character1703323920627.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703323924/FlameForge/characters/character1703323939055.webp"
+    },
+    "desc": "The Chief Justice of Fontaine, known as the Iudex, is renowned for his unassailable impartiality.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/4023",
+    "cdata": [
+      "5-Star",
+      "CRIT DMG",
+      "Hydro",
+      "Catalyst",
+      "Fontaine"
+    ],
+    "rarity": 5,
+    "weapon": "Catalyst",
+    "region": "Fontaine"
+  }
+]

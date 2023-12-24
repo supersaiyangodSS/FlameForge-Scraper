@@ -1,0 +1,34 @@
+{
+  "name": "Welcome to HoYoWiki!",
+  "effect": {
+    "twoPc": "Increases Elemental Skill DMG by 20%",
+    "fourPc": "Increases Elemental Skill DMG by 25%. Additionally, when not on the field, Elemental Skill DMG will be further increased by 25%. This effect will be cleared 2s after taking the field."
+  },
+  "fullSet": {
+    "flower": {
+      "title": "Golden Song's Variation",
+      "piece": "Flower of Life",
+      "icon": "https://wiki.hoyolab.com/_nuxt/img/avatar.0848930.png"
+    },
+    "sands": {
+      "title": "Golden Era's Prelude",
+      "piece": "Sands of Eon",
+      "icon": "https://wiki.hoyolab.com/_nuxt/img/avatar.0848930.png"
+    },
+    "plume": {
+      "title": "Golden Bird's Shedding",
+      "piece": "Plume of Death",
+      "icon": "https://wiki.hoyolab.com/_nuxt/img/avatar.0848930.png"
+    },
+    "circlet": {
+      "title": "Golden Troupe's Reward",
+      "piece": "Circlet of Logos",
+      "icon": "https://wiki.hoyolab.com/_nuxt/img/avatar.0848930.png"
+    },
+    "goblet": {
+      "title": "Golden Night's Bustle",
+      "piece": "Goblet of Eonothem",
+      "icon": "https://wiki.hoyolab.com/_nuxt/img/avatar.0848930.png"
+    }
+  }
+}

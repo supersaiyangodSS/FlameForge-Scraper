@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Dehya",
+    "birthday": "4/7",
+    "constellation": "Mantichora",
+    "title": "Flame-Mane",
+    "vision": "Pyro",
+    "affiliation": "The Eremites",
+    "versionRelease": 3.5,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703325231/FlameForge/characters/character1703325244302.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703325257/FlameForge/characters/character1703325270563.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703325275/FlameForge/characters/character1703325290140.webp"
+    },
+    "desc": "A member of the Eremites, a mercenary organization that roams the sands of Sumeru. Valiant and powerful, she enjoys great fame amongst her fellow Eremites.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/3463",
+    "cdata": [
+      "HP",
+      "Pyro",
+      "Claymore",
+      "Sumeru",
+      "5-Star"
+    ],
+    "rarity": 5,
+    "weapon": "Claymore",
+    "region": "Sumeru"
+  }
+]

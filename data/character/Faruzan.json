@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Faruzan",
+    "birthday": "8/20",
+    "constellation": "Flosculi Implexi",
+    "title": "Enigmatic Machinist",
+    "vision": "Anemo",
+    "affiliation": "Haravatat",
+    "versionRelease": 3.3,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703409936/FlameForge/characters/character1703409952518.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703409949/FlameForge/characters/character1703409965522.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703409970/FlameForge/characters/character1703409986675.webp"
+    },
+    "desc": "A researcher from \"one hundred years ago.\" She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/2967",
+    "cdata": [
+      "Sumeru",
+      "4-Star",
+      "ATK",
+      "Bow",
+      "Anemo"
+    ],
+    "rarity": 4,
+    "weapon": "Bow",
+    "region": "Sumeru"
+  }
+]

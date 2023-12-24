@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Nahida",
+    "birthday": "10/27",
+    "constellation": "Sapientia Oromasdis",
+    "title": "Physic of Purity",
+    "affiliation": "Sumeru City",
+    "versionRelease": 3.2,
+    "vision": "Dendro",
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703410055/FlameForge/characters/character1703410071413.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703410070/FlameForge/characters/character1703410085358.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703410085/FlameForge/characters/character1703410102358.webp"
+    },
+    "desc": "A caged bird secluded within the confines of the Sanctuary of Surasthana who can only see the world in her dreams.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/2850",
+    "cdata": [
+      "Elemental Mastery",
+      "Catalyst",
+      "Dendro",
+      "Sumeru",
+      "5-Star"
+    ],
+    "rarity": 5,
+    "weapon": "Catalyst",
+    "region": "Sumeru"
+  }
+]

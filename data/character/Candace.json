@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Candace",
+    "birthday": "5/3",
+    "constellation": "Sagitta Scutum",
+    "title": "Golden Vow",
+    "vision": "Hydro",
+    "affiliation": "Aaru Village",
+    "versionRelease": 3.1,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703410104/FlameForge/characters/character1703410118716.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703410118/FlameForge/characters/character1703410135124.png",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703410133/FlameForge/characters/character1703410150437.webp"
+    },
+    "desc": "A descendant of King Deshret with an amber left eye. The defender of Aaru Village.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/2815",
+    "cdata": [
+      "4-Star",
+      "HP",
+      "Hydro",
+      "Polearm",
+      "Sumeru"
+    ],
+    "rarity": 4,
+    "weapon": "Polearm",
+    "region": "Sumeru"
+  }
+]

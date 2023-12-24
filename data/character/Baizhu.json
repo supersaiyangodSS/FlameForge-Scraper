@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Baizhu",
+    "birthday": "4/25",
+    "constellation": "Lagenaria",
+    "title": "Beyond Mortality",
+    "vision": "Dendro",
+    "affiliation": "Bubu Pharmacy",
+    "versionRelease": 3.6,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703325106/FlameForge/characters/character1703325118733.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703325118/FlameForge/characters/character1703325131585.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703325136/FlameForge/characters/character1703325150587.webp"
+    },
+    "desc": "The owner of Bubu Pharmacy, who is rarely seen without the white snake named Changsheng. His medicinal knowledge is encyclopedic, and his personal intrigues subtle.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/3609",
+    "cdata": [
+      "Catalyst",
+      "Liyue Harbor",
+      "5-Star",
+      "HP",
+      "Dendro"
+    ],
+    "rarity": 5,
+    "weapon": "Catalyst",
+    "region": "Liyue Harbor"
+  }
+]

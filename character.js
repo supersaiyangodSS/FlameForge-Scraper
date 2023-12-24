@@ -2,7 +2,7 @@ import puppeteer from 'puppeteer';
 import fs from 'fs/promises';
 import saveFile from './helper/saveFile.js';
 
-const url = 'https://wiki.hoyolab.com/pc/genshin/entry/34';
+const url = 'https://wiki.hoyolab.com/pc/genshin/entry/2815';
 
 const scraper = async () => {
   const browser = await puppeteer.launch();
@@ -84,8 +84,7 @@ const scraper = async () => {
       cdata,
       rarity,
       weapon,
-      region,
-      model: "N/A"
+      region
     }
 
     // return {baseInfoData, images};
