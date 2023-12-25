@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Razor",
+    "birthday": "9/9",
+    "constellation": "Lupus Minor",
+    "title": "Wolf Boy",
+    "vision": "Electro",
+    "affiliation": "Wolvendom",
+    "versionRelease": 1,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703521716/FlameForge/characters/character1703521736424.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703521734/FlameForge/characters/character1703521752305.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703521744/FlameForge/characters/character1703521763999.webp"
+    },
+    "desc": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/48",
+    "cdata": [
+      "Physical DMG Bonus",
+      "Electro",
+      "Claymore",
+      "Mondstadt",
+      "4-Star"
+    ],
+    "rarity": 4,
+    "weapon": "Claymore",
+    "region": "Mondstadt"
+  }
+]

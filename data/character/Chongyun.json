@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Chongyun",
+    "birthday": "9/7",
+    "constellation": "Nubis Caesor",
+    "title": "Frozen Ardor",
+    "vision": "Cryo",
+    "affiliation": "Tianheng Thaumaturges",
+    "versionRelease": 1,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703521863/FlameForge/characters/character1703521883365.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703521875/FlameForge/characters/character1703521894541.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703521886/FlameForge/characters/character1703521906399.webp"
+    },
+    "desc": "A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/45",
+    "cdata": [
+      "ATK",
+      "Cryo",
+      "Claymore",
+      "Liyue Harbor",
+      "4-Star"
+    ],
+    "rarity": 4,
+    "weapon": "Claymore",
+    "region": "Liyue Harbor"
+  }
+]

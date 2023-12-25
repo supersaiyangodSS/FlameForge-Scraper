@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Albedo",
+    "birthday": "9/13",
+    "constellation": "Princeps Cretaceus",
+    "title": "Kreideprinz",
+    "vision": "Geo",
+    "affiliation": "Knights of Favonius",
+    "versionRelease": 1.2,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703521763/FlameForge/characters/character1703521782068.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703521773/FlameForge/characters/character1703521793552.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703521785/FlameForge/characters/character1703521804913.webp"
+    },
+    "desc": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/47",
+    "cdata": [
+      "Geo DMG Bonus",
+      "Geo",
+      "Sword",
+      "Mondstadt",
+      "5-Star"
+    ],
+    "rarity": 5,
+    "weapon": "Sword",
+    "region": "Mondstadt"
+  }
+]
