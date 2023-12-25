@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Shikanoin Heizou",
+    "birthday": "7/24",
+    "constellation": "Cervus Minor",
+    "title": "Analytical Harmony",
+    "vision": "Anemo",
+    "affiliation": "Tenryou Commission",
+    "versionRelease": 2.8,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703520838/FlameForge/characters/character1703520857948.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703520853/FlameForge/characters/character1703520872774.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703520949/FlameForge/characters/character1703520969233.webp"
+    },
+    "desc": "A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/2263",
+    "cdata": [
+      "4-Star",
+      "Anemo DMG Bonus",
+      "Anemo",
+      "Catalyst",
+      "Inazuma City"
+    ],
+    "rarity": 4,
+    "weapon": "Catalyst",
+    "region": "Inazuma City"
+  }
+]

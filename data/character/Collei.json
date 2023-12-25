@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Collei",
+    "birthday": "5/8",
+    "constellation": "Leptailurus Cervarius",
+    "title": "Sprout of Rebirth",
+    "vision": "Dendro",
+    "affiliation": "Gandharva Ville",
+    "versionRelease": 3,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703520745/FlameForge/characters/character1703520762368.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703520758/FlameForge/characters/character1703520776844.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703520771/FlameForge/characters/character1703520790754.webp"
+    },
+    "desc": "A trainee ranger active in Avidya Forest. Behind her enthusiastic words and actions hides a slightly introverted personality.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/2268",
+    "cdata": [
+      "Bow",
+      "Sumeru",
+      "4-Star",
+      "ATK",
+      "Dendro"
+    ],
+    "rarity": 4,
+    "weapon": "Bow",
+    "region": "Sumeru"
+  }
+]

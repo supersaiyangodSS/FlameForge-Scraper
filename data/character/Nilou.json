@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Nilou",
+    "birthday": "12/3",
+    "constellation": "Lotos Somno",
+    "title": "Dance of Lotuslight",
+    "vision": "Hydro",
+    "affiliation": "Zubayr Theater",
+    "versionRelease": 3.1,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703410489/FlameForge/characters/character1703410506061.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703410502/FlameForge/characters/character1703410518260.png",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703410525/FlameForge/characters/character1703410542232.webp"
+    },
+    "desc": "The star of the Zubayr Theater. She is full of warmth and innocence, and her dances are lively and elegant.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/2812",
+    "cdata": [
+      "Sword",
+      "Sumeru",
+      "5-Star",
+      "HP",
+      "Hydro"
+    ],
+    "rarity": 5,
+    "weapon": "Sword",
+    "region": "Sumeru"
+  }
+]

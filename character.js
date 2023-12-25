@@ -2,7 +2,7 @@ import puppeteer from 'puppeteer';
 import fs from 'fs/promises';
 import saveFile from './helper/saveFile.js';
 
-const url = 'https://wiki.hoyolab.com/pc/genshin/entry/2815';
+const url = 'https://wiki.hoyolab.com/pc/genshin/entry/2256';
 
 const scraper = async () => {
   const browser = await puppeteer.launch();
@@ -16,7 +16,7 @@ const scraper = async () => {
     const characterMiniData = document.querySelectorAll('.c-entry-tag-item');
 
     let desc = descContainer ? descContainer.querySelector('.et-text-tiptap-editor > div > p').innerText : 'N/A';
-    let profile = galleryContainer ? 'https://wiki.hoyolab.com' + document.querySelector('.detail-header-cover-avatar > .d-img-show').getAttribute('src') : 'N/A';
+    let profile = galleryContainer ? document.querySelector('.detail-header-cover-avatar > .d-img-show').getAttribute('src') : 'N/A';
     let gacha = galleryContainer ? galleryContainer.querySelector('.d-gallery-img > img').getAttribute('origin-src') : 'N/A';
     let card = galleryContainer ? galleryContainer.querySelector('.d-gallery-card > img').getAttribute('origin-src') : 'N/A';
 
