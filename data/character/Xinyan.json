@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Xinyan",
+    "birthday": "10/16",
+    "constellation": "Fila Ignium",
+    "title": "Blazing Riff",
+    "vision": "Pyro",
+    "affiliation": "\"The Red Strings\"",
+    "versionRelease": 1.1,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703522396/FlameForge/characters/character1703522416250.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703522411/FlameForge/characters/character1703522430039.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703522421/FlameForge/characters/character1703522441155.webp"
+    },
+    "desc": "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/41",
+    "cdata": [
+      "Pyro",
+      "Claymore",
+      "Liyue Harbor",
+      "4-Star",
+      "ATK"
+    ],
+    "rarity": 4,
+    "weapon": "Claymore",
+    "region": "Liyue Harbor"
+  }
+]
