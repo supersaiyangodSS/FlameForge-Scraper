@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Xiangling",
+    "birthday": "11/2",
+    "constellation": "Trulla",
+    "title": "Exquisite Delicacy",
+    "vision": "Pyro",
+    "affiliation": "Wanmin Restaurant",
+    "versionRelease": 1,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703521432/FlameForge/characters/character1703521452642.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703521452/FlameForge/characters/character1703521472395.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703521473/FlameForge/characters/character1703521492859.webp"
+    },
+    "desc": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/50",
+    "cdata": [
+      "Polearm",
+      "Liyue Harbor",
+      "4-Star",
+      "Elemental Mastery",
+      "Pyro"
+    ],
+    "rarity": 4,
+    "weapon": "Polearm",
+    "region": "Liyue Harbor"
+  }
+]

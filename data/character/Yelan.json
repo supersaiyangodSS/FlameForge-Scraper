@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Yelan",
+    "birthday": "4/20",
+    "constellation": "Umbrabilis Orchis",
+    "title": "Valley Orchid",
+    "vision": "Hydro",
+    "affiliation": "Yanshang Teahouse",
+    "versionRelease": 2.7,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703521346/FlameForge/characters/character1703521365164.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703521356/FlameForge/characters/character1703521375789.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703521376/FlameForge/characters/character1703521396352.webp"
+    },
+    "desc": "A mysterious person who claims to work for the Ministry of Civil Affairs, but is a \"non-entity\" on the Ministry of Civil Affairs' list.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/2252",
+    "cdata": [
+      "5-Star",
+      "CRIT Rate",
+      "Hydro",
+      "Bow",
+      "Liyue Harbor"
+    ],
+    "rarity": 5,
+    "weapon": "Bow",
+    "region": "Liyue Harbor"
+  }
+]

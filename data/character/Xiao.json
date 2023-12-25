@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Xiao",
+    "birthday": "4/17",
+    "constellation": "Alatus Nemeseos",
+    "title": "Vigilant Yaksha",
+    "vision": "Anemo",
+    "affiliation": "Liyue Adeptus",
+    "versionRelease": 1.3,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703521392/FlameForge/characters/character1703521411476.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703521402/FlameForge/characters/character1703521420245.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703521419/FlameForge/characters/character1703521438948.webp"
+    },
+    "desc": "A yaksha adeptus who defends Liyue. Also heralded as the \"Conqueror of Demons\" and \"Vigilant Yaksha.\"",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/51",
+    "cdata": [
+      "CRIT Rate",
+      "Anemo",
+      "Polearm",
+      "Liyue Harbor",
+      "5-Star"
+    ],
+    "rarity": 5,
+    "weapon": "Polearm",
+    "region": "Liyue Harbor"
+  }
+]
