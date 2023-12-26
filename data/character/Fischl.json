@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Fischl",
+    "birthday": "5/27",
+    "constellation": "Corvus",
+    "title": "Prinzessin der Verurteilung!",
+    "vision": "Electro",
+    "affiliation": "Adventurers' Guild",
+    "versionRelease": 1,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703612004/FlameForge/characters/character1703612025308.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703612044/FlameForge/characters/character1703612065628.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703612055/FlameForge/characters/character1703612077607.webp"
+    },
+    "desc": "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/38",
+    "cdata": [
+      "4-Star",
+      "ATK",
+      "Electro",
+      "Bow",
+      "Mondstadt"
+    ],
+    "rarity": 4,
+    "weapon": "Bow",
+    "region": "Mondstadt"
+  }
+]
