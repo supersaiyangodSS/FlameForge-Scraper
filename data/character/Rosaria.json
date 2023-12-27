@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Rosaria",
+    "birthday": "1/24",
+    "constellation": "Spinea Corona",
+    "title": "Thorny Benevolence",
+    "vision": "Cryo",
+    "affiliation": "Church of Favonius",
+    "versionRelease": 1.4,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703694725/FlameForge/characters/character1703694748391.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703694740/FlameForge/characters/character1703694762143.png",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703694753/FlameForge/characters/character1703694778184.webp"
+    },
+    "desc": "A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/33",
+    "cdata": [
+      "Cryo",
+      "Polearm",
+      "Mondstadt",
+      "4-Star",
+      "ATK"
+    ],
+    "rarity": 4,
+    "weapon": "Polearm",
+    "region": "Mondstadt"
+  }
+]

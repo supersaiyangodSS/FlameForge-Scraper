@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Barbara",
+    "birthday": "7/5",
+    "constellation": "Crater",
+    "title": "Shining Idol",
+    "vision": "Hydro",
+    "affiliation": "Church of Favonius",
+    "versionRelease": 1,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703694689/FlameForge/characters/character1703694712311.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703694699/FlameForge/characters/character1703694722329.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703694708/FlameForge/characters/character1703694732634.webp"
+    },
+    "desc": "Every citizen of Mondstadt adores Barbara. She learned the word \"idol\" from a magazine.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/35",
+    "cdata": [
+      "4-Star",
+      "HP",
+      "Hydro",
+      "Catalyst",
+      "Mondstadt"
+    ],
+    "rarity": 4,
+    "weapon": "Catalyst",
+    "region": "Mondstadt"
+  }
+]
