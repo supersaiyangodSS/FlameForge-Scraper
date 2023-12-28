@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Ningguang",
+    "birthday": "8/26",
+    "constellation": "Opus Aequilibrium",
+    "title": "Eclipsing Star",
+    "vision": "Geo",
+    "affiliation": "Liyue Qixing",
+    "versionRelease": 1,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703760302/FlameForge/characters/character1703760307438.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703760313/FlameForge/characters/character1703760316998.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703760324/FlameForge/characters/character1703760329968.webp"
+    },
+    "desc": "The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/8",
+    "cdata": [
+      "4-Star",
+      "Geo DMG Bonus",
+      "Geo",
+      "Catalyst",
+      "Liyue Harbor"
+    ],
+    "rarity": 4,
+    "weapon": "Catalyst",
+    "region": "Liyue Harbor"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Gorou",
+    "birthday": "5/18",
+    "constellation": "Canis Bellatoris",
+    "title": "Canine Warrior",
+    "vision": "Geo",
+    "affiliation": "Watatsumi Island",
+    "versionRelease": 2.3,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703760264/FlameForge/characters/character1703760270028.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703760277/FlameForge/characters/character1703760281136.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703760287/FlameForge/characters/character1703760293237.webp"
+    },
+    "desc": "The great general of Watatsumi Island's forces. He is deeply trusted by his subordinates.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/5",
+    "cdata": [
+      "Inazuma City",
+      "4-Star",
+      "Geo DMG Bonus",
+      "Geo",
+      "Bow"
+    ],
+    "rarity": 4,
+    "weapon": "Bow",
+    "region": "Inazuma City"
+  }
+]

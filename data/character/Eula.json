@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Eula",
+    "birthday": "10/25",
+    "constellation": "Aphros Delos",
+    "title": "Dance of the Shimmering Wave",
+    "vision": "Cryo",
+    "affiliation": "Knights of Favonius",
+    "versionRelease": 1.5,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703760180/FlameForge/characters/character1703760185418.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703760191/FlameForge/characters/character1703760196216.png",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703760204/FlameForge/characters/character1703760209936.webp"
+    },
+    "desc": "The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company. The reason for which a descendant of the ancient nobles might join the Knights remains a great mystery in Mondstadt to this very day.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/6",
+    "cdata": [
+      "Claymore",
+      "Mondstadt",
+      "5-Star",
+      "CRIT DMG",
+      "Cryo"
+    ],
+    "rarity": 5,
+    "weapon": "Claymore",
+    "region": "Mondstadt"
+  }
+]
