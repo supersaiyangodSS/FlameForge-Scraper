@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Pale Flame",
+    "effect": {
+      "twoPc": "Physical DMG is increased by 25%.",
+      "fourPc": "When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Stainless Bloom",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703792655/FlameForge/artifacts/artifact1703792661485.webp"
+      },
+      "sands": {
+        "title": "Moment of Cessation",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703792645/FlameForge/artifacts/artifact1703792651027.webp"
+      },
+      "plume": {
+        "title": "Wise Doctor's Pinion",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703792635/FlameForge/artifacts/artifact1703792641671.webp"
+      },
+      "circlet": {
+        "title": "Mocking Mask",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703792625/FlameForge/artifacts/artifact1703792631937.webp"
+      },
+      "goblet": {
+        "title": "Surpassing Cup",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703792613/FlameForge/artifacts/artifact1703792620245.webp"
+      }
+    }
+  }
+]
