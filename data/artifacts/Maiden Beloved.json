@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Maiden Beloved",
+    "effect": {
+      "twoPc": "Character Healing Effectiveness +15%",
+      "fourPc": "Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Maiden's Distant Love",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703792169/FlameForge/artifacts/artifact1703792176185.webp"
+      },
+      "sands": {
+        "title": "Maiden's Passing Youth",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703792158/FlameForge/artifacts/artifact1703792164942.webp"
+      },
+      "plume": {
+        "title": "Maiden's Heart-stricken Infatuation",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703792147/FlameForge/artifacts/artifact1703792153975.webp"
+      },
+      "circlet": {
+        "title": "Maiden's Fading Beauty",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703792135/FlameForge/artifacts/artifact1703792141181.webp"
+      },
+      "goblet": {
+        "title": "Maiden's Fleeting Leisure",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703792116/FlameForge/artifacts/artifact1703792122961.webp"
+      }
+    }
+  }
+]
