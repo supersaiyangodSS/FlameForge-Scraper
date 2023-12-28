@@ -2,7 +2,7 @@ import puppeteer from 'puppeteer';
 import fs from 'fs/promises';
 import saveFile from './helper/saveFile.js';
 
-const url = 'https://wiki.hoyolab.com/pc/genshin/entry/3991';
+const url = 'https://wiki.hoyolab.com/pc/genshin/entry/4716';
 
 const scraper = async () => {
   const browser = await puppeteer.launch({ headless: 'new' });
@@ -15,15 +15,16 @@ const scraper = async () => {
     const descContainer = document.querySelector('.ENTRY_SHARE_DESC_SELECTOR');
     const artifactContainer = document.querySelector('.e-artifact-list-content');
 
+
+
     let desc = descContainer ? descContainer.querySelector('.et-text-tiptap-editor > div > p').innerText : 'N/A';
     let piecesData = {};
-if (artifactContainer) {
-  const artifacts = Array.from(artifactContainer.querySelectorAll('.e-artifact-list-item'));
-
+    if (artifactContainer) {
+      const artifacts = Array.from(artifactContainer.querySelectorAll('.e-artifact-list-item'));
   // Check if artifacts is an array before using map
   if (Array.isArray(artifacts)) {
     piecesData = artifacts.map(artifact => {
-      const imgSrc = 'https://wiki.hoyolab.com' + artifact.querySelector('.d-img-bg').getAttribute('src');
+      const imgSrc =  artifact.querySelector('.d-img-show').getAttribute('src');
       const title = artifact.querySelector('.e-artifact-list-item-title').innerText;
       const position = artifact.querySelector('.e-artifact-list-item-pos').innerText;
       const artifactDesc = artifact.querySelector('.et-text-tiptap-editor > div > p').innerText;
@@ -99,7 +100,7 @@ if (artifactContainer) {
         goblet: transformedData[4]
       }
     }
-    
+
     return mainObj;
 
   }, url);

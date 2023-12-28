@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Nighttime Whispers in the Echoing Woods",
+    "effect": {
+      "twoPc": "ATK +18%.",
+      "fourPc": "After using an Elemental Skill, gain a 20% Geo DMG Bonus for 10s. While under a shield granted by the Crystallize reaction, the above effect will be increased by 150%, and this additional increase disappears 1s after that shield is lost."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Selfless Floral Accessory",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703785323/FlameForge/artifacts/artifact1703785329021.webp"
+      },
+      "sands": {
+        "title": "Faithful Hourglass",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703785302/FlameForge/artifacts/artifact1703785308702.webp"
+      },
+      "plume": {
+        "title": "Honest Quill",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703785280/FlameForge/artifacts/artifact1703785286398.webp"
+      },
+      "circlet": {
+        "title": "Compassionate Ladies' Hat",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703785266/FlameForge/artifacts/artifact1703785272764.webp"
+      },
+      "goblet": {
+        "title": "Magnanimous Ink Bottle",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703785250/FlameForge/artifacts/artifact1703785256406.webp"
+      }
+    }
+  }
+]
