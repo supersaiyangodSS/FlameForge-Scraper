@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Retracing Bolide",
+    "effect": {
+      "twoPc": "Increases Shield Strength by 35%.",
+      "fourPc": "While protected by a shield, gain an additional 40% Normal and Charged Attack DMG."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Summer Night's Bloom",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703789695/FlameForge/artifacts/artifact1703789702216.webp"
+      },
+      "sands": {
+        "title": "Summer Night's Moment",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703789685/FlameForge/artifacts/artifact1703789691922.webp"
+      },
+      "plume": {
+        "title": "Summer Night's Finale",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703789670/FlameForge/artifacts/artifact1703789675934.webp"
+      },
+      "circlet": {
+        "title": "Summer Night's Mask",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703789658/FlameForge/artifacts/artifact1703789663781.webp"
+      },
+      "goblet": {
+        "title": "Summer Night's Waterballoon",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703789644/FlameForge/artifacts/artifact1703789650499.webp"
+      }
+    }
+  }
+]

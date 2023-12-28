@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Shimenawa's Reminiscence",
+    "effect": {
+      "twoPc": "ATK +18%.",
+      "fourPc": "When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Entangling Bloom",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703789580/FlameForge/artifacts/artifact1703789586856.webp"
+      },
+      "sands": {
+        "title": "Morning Dew's Moment",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703789565/FlameForge/artifacts/artifact1703789571577.webp"
+      },
+      "plume": {
+        "title": "Shaft of Remembrance",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703789489/FlameForge/artifacts/artifact1703789496011.webp"
+      },
+      "circlet": {
+        "title": "Capricious Visage",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703789476/FlameForge/artifacts/artifact1703789483250.webp"
+      },
+      "goblet": {
+        "title": "Hopeful Heart",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703789458/FlameForge/artifacts/artifact1703789464792.webp"
+      }
+    }
+  }
+]
