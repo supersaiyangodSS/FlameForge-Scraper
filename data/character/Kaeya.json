@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Kaeya",
+    "birthday": "11/30",
+    "constellation": "Pavo Ocellus",
+    "title": "Frostwind Swordsman",
+    "vision": "Cryo",
+    "affiliation": "Knights of Favonius",
+    "versionRelease": 1,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703759759/FlameForge/characters/character1703759763740.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703759769/FlameForge/characters/character1703759774869.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703759781/FlameForge/characters/character1703759786700.webp"
+    },
+    "desc": "An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/9",
+    "cdata": [
+      "4-Star",
+      "Energy Recharge",
+      "Cryo",
+      "Sword",
+      "Mondstadt"
+    ],
+    "rarity": 4,
+    "weapon": "Sword",
+    "region": "Mondstadt"
+  }
+]

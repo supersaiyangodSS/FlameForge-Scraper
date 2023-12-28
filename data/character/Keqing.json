@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Keqing",
+    "birthday": "11/20",
+    "constellation": "Trulla Cementarii",
+    "title": "Driving Thunder",
+    "vision": "Electro",
+    "affiliation": "Liyue Qixing",
+    "versionRelease": 1,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703759795/FlameForge/characters/character1703759800295.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703759810/FlameForge/characters/character1703759814052.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703759821/FlameForge/characters/character1703759827431.webp"
+    },
+    "desc": "The Yuheng of the Liyue Qixing. Keqing has much to say about Rex Lapis's unilateral approach to policymaking in Liyue — but in truth, gods admire skeptics such as her quite a lot.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/10",
+    "cdata": [
+      "5-Star",
+      "CRIT DMG",
+      "Electro",
+      "Sword",
+      "Liyue Harbor"
+    ],
+    "rarity": 5,
+    "weapon": "Sword",
+    "region": "Liyue Harbor"
+  }
+]
