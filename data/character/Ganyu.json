@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Ganyu",
+    "birthday": "12/2",
+    "constellation": "Sinae Unicornis",
+    "title": "Plenilune Gaze",
+    "vision": "Cryo",
+    "affiliation": "Yuehai Pavilion",
+    "versionRelease": 1.2,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703757631/FlameForge/characters/character1703757637403.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703757642/FlameForge/characters/character1703757646918.png",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703757653/FlameForge/characters/character1703757659283.webp"
+    },
+    "desc": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/28",
+    "cdata": [
+      "Cryo",
+      "Bow",
+      "Liyue Harbor",
+      "5-Star",
+      "CRIT DMG"
+    ],
+    "rarity": 5,
+    "weapon": "Bow",
+    "region": "Liyue Harbor"
+  }
+]
