@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Vermillion Hereafter",
+    "effect": {
+      "twoPc": "ATK +18%.",
+      "fourPc": "After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This further increase can occur this way a maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Flowering Life",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703790081/FlameForge/artifacts/artifact1703790085973.webp"
+      },
+      "sands": {
+        "title": "Solar Relic",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703790069/FlameForge/artifacts/artifact1703790075381.webp"
+      },
+      "plume": {
+        "title": "Feather of Nascent Light",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703790058/FlameForge/artifacts/artifact1703790065246.webp"
+      },
+      "circlet": {
+        "title": "Thundering Poise",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703790045/FlameForge/artifacts/artifact1703790052127.webp"
+      },
+      "goblet": {
+        "title": "Moment of the Pact",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703790031/FlameForge/artifacts/artifact1703790037354.webp"
+      }
+    }
+  }
+]
