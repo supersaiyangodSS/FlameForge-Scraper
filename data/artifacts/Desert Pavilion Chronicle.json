@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Desert Pavilion Chronicle",
+    "effect": {
+      "twoPc": "Anemo DMG Bonus +15%",
+      "fourPc": "When Charged Attacks hit opponents, the equipping character's Normal Attack SPD will increase by 10% while Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "The First Days of the City of Kings",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703788529/FlameForge/artifacts/artifact1703788535556.webp"
+      },
+      "sands": {
+        "title": "Timepiece of the Lost Path",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703788518/FlameForge/artifacts/artifact1703788523524.webp"
+      },
+      "plume": {
+        "title": "End of the Golden Realm",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703788499/FlameForge/artifacts/artifact1703788505427.webp"
+      },
+      "circlet": {
+        "title": "Legacy of the Desert High-Born",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703788488/FlameForge/artifacts/artifact1703788493652.webp"
+      },
+      "goblet": {
+        "title": "Defender of the Enchanting Dream",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703788467/FlameForge/artifacts/artifact1703788472845.webp"
+      }
+    }
+  }
+]
