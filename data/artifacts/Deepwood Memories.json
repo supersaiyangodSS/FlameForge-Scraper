@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Deepwood Memories",
+    "effect": {
+      "twoPc": "Dendro DMG Bonus +15%.",
+      "fourPc": "After Elemental Skills or Bursts hit opponents, the targets' Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Labyrinth Wayfarer",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703789231/FlameForge/artifacts/artifact1703789237512.webp"
+      },
+      "sands": {
+        "title": "A Time of Insight",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703789215/FlameForge/artifacts/artifact1703789221632.webp"
+      },
+      "plume": {
+        "title": "Scholar of Vines",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703789202/FlameForge/artifacts/artifact1703789208533.webp"
+      },
+      "circlet": {
+        "title": "Laurel Coronet",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703789187/FlameForge/artifacts/artifact1703789193570.webp"
+      },
+      "goblet": {
+        "title": "Lamp of the Lost",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703789174/FlameForge/artifacts/artifact1703789180440.webp"
+      }
+    }
+  }
+]
