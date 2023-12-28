@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Viridescent Venerer",
+    "effect": {
+      "twoPc": "Anemo DMG Bonus +15%",
+      "fourPc": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "In Remembrance of Viridescent Fields",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703793161/FlameForge/artifacts/artifact1703793167186.webp"
+      },
+      "sands": {
+        "title": "Viridescent Venerer's Determination",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703793145/FlameForge/artifacts/artifact1703793152293.webp"
+      },
+      "plume": {
+        "title": "Viridescent Arrow Feather",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703793135/FlameForge/artifacts/artifact1703793141399.webp"
+      },
+      "circlet": {
+        "title": "Viridescent Venerer's Diadem",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703793123/FlameForge/artifacts/artifact1703793129949.webp"
+      },
+      "goblet": {
+        "title": "Viridescent Venerer's Vessel",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703793109/FlameForge/artifacts/artifact1703793115382.webp"
+      }
+    }
+  }
+]

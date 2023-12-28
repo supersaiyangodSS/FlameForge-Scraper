@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Emblem of Severed Fate",
+    "effect": {
+      "twoPc": "Energy Recharge +20%",
+      "fourPc": "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Magnificent Tsuba",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703793297/FlameForge/artifacts/artifact1703793303313.webp"
+      },
+      "sands": {
+        "title": "Storm Cage",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703793285/FlameForge/artifacts/artifact1703793290682.webp"
+      },
+      "plume": {
+        "title": "Sundered Feather",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703793272/FlameForge/artifacts/artifact1703793279148.webp"
+      },
+      "circlet": {
+        "title": "Ornate Kabuto",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703793260/FlameForge/artifacts/artifact1703793266889.webp"
+      },
+      "goblet": {
+        "title": "Scarlet Vessel",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703793248/FlameForge/artifacts/artifact1703793254828.webp"
+      }
+    }
+  }
+]
