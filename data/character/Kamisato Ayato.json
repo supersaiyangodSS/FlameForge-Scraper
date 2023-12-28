@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Kamisato Ayato",
+    "birthday": "3/26",
+    "constellation": "Cypressus Custos",
+    "title": "Pillar of Fortitude",
+    "vision": "Hydro",
+    "affiliation": "Yashiro Commission",
+    "versionRelease": 2.6,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703756838/FlameForge/characters/character1703756841672.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703756850/FlameForge/characters/character1703756854315.png",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703756862/FlameForge/characters/character1703756868031.webp"
+    },
+    "desc": "The young but highly accomplished head of the Yashiro Commission's Kamisato Clan. Cultured and polite, he is a man of many ways and means.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/31",
+    "cdata": [
+      "Sword",
+      "Inazuma City",
+      "5-Star",
+      "CRIT DMG",
+      "Hydro"
+    ],
+    "rarity": 5,
+    "weapon": "Sword",
+    "region": "Inazuma City"
+  }
+]
