@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Venti",
+    "birthday": "6/16",
+    "constellation": "Carmen Dei",
+    "title": "Windborne Bard",
+    "affiliation": "Mondstadt",
+    "versionRelease": 1,
+    "vision": "Anemo",
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703758377/FlameForge/characters/character1703758381845.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703758396/FlameForge/characters/character1703758400350.jpg",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703758407/FlameForge/characters/character1703758412646.webp"
+    },
+    "desc": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/23",
+    "cdata": [
+      "5-Star",
+      "Energy Recharge",
+      "Anemo",
+      "Bow",
+      "Mondstadt"
+    ],
+    "rarity": 5,
+    "weapon": "Bow",
+    "region": "Mondstadt"
+  }
+]

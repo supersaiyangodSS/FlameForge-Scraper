@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Sayu",
+    "birthday": "10/19",
+    "constellation": "Nyctereutes Minor",
+    "title": "Mujina Ninja",
+    "vision": "Anemo",
+    "affiliation": "Shuumatsuban",
+    "versionRelease": 2,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703758266/FlameForge/characters/character1703758270941.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703758352/FlameForge/characters/character1703758357291.png",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703758364/FlameForge/characters/character1703758369943.webp"
+    },
+    "desc": "A pint-sized ninja attached to the Shuumatsuban, who always seems sleep-deprived.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/21",
+    "cdata": [
+      "Claymore",
+      "Inazuma City",
+      "4-Star",
+      "Elemental Mastery",
+      "Anemo"
+    ],
+    "rarity": 4,
+    "weapon": "Claymore",
+    "region": "Inazuma City"
+  }
+]
