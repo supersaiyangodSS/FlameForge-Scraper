@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Traveler",
+    "birthday": "-",
+    "constellation": "Viator & Viatrix",
+    "title": "Blazing Riff",
+    "vision": "-",
+    "affiliation": "-",
+    "versionRelease": 1.0,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703758987/FlameForge/characters/character1703758990941.webp",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703759002/FlameForge/characters/character1703759006365.webp",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703759013/FlameForge/characters/character1703759019131.webp"
+    },
+    "desc": "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/20",
+    "rarity": 5,
+    "weapon": "Sword",
+    "region": "-"
+  }
+]
