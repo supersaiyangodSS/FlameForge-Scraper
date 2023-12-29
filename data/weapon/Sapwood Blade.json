@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Sapwood Blade",
+    "desc": "A weapon you obtained from an Aranara tale. It has taken on the shape of a blade that can cut down the foes of the forest.",
+    "rarity": 4,
+    "source": "Forged",
+    "passive": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character 60 Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack.",
+    "versionRelease": "3.0",
+    "region": "Sumeru",
+    "family": "Weapon",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n11417/?lang=EN",
+    "affix": "Forest Sanctuary",
+    "baseAtk": 43.73,
+    "baseSubStat": 6.67,
+    "subStatType": "Energy Recharge %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703869078/FlameForge/weapons/weapon1703869087069.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703869088/FlameForge/weapons/weapon1703869095709.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703869097/FlameForge/weapons/weapon1703869105152.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703869106/FlameForge/weapons/weapon1703869114550.webp"
+    }
+  }
+]
