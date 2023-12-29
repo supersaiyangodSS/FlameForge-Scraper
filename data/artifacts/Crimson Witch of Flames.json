@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Crimson Witch of Flames",
+    "effect": {
+      "twoPc": "Pyro DMG Bonus +15%",
+      "fourPc": "Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Witch's Flower of Blaze",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850130/FlameForge/artifacts/artifact1703850137612.webp"
+      },
+      "sands": {
+        "title": "Witch's End Time",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850119/FlameForge/artifacts/artifact1703850126847.webp"
+      },
+      "plume": {
+        "title": "Witch's Ever-Burning Plume",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850107/FlameForge/artifacts/artifact1703850114870.webp"
+      },
+      "circlet": {
+        "title": "Witch's Scorching Hat",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850093/FlameForge/artifacts/artifact1703850101221.webp"
+      },
+      "goblet": {
+        "title": "Witch's Heart Flames",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850080/FlameForge/artifacts/artifact1703850087971.webp"
+      }
+    }
+  }
+]
