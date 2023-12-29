@@ -1,0 +1,36 @@
+[
+  {
+    "name": "The Exile",
+    "effect": {
+      "twoPc": "Energy Recharge +20%",
+      "fourPc": "Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Exile's Flower",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850751/FlameForge/artifacts/artifact1703850759807.webp"
+      },
+      "sands": {
+        "title": "Exile's Pocket Watch",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850739/FlameForge/artifacts/artifact1703850747293.webp"
+      },
+      "plume": {
+        "title": "Exile's Feather",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850728/FlameForge/artifacts/artifact1703850735362.webp"
+      },
+      "circlet": {
+        "title": "Exile's Circlet",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850709/FlameForge/artifacts/artifact1703850716924.webp"
+      },
+      "goblet": {
+        "title": "Exile's Goblet",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850693/FlameForge/artifacts/artifact1703850700894.webp"
+      }
+    }
+  }
+]

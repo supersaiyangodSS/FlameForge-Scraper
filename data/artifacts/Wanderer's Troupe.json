@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Wanderer's Troupe",
+    "effect": {
+      "twoPc": "Increases Elemental Mastery by 80.",
+      "fourPc": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Troupe's Dawnlight",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850867/FlameForge/artifacts/artifact1703850875531.webp"
+      },
+      "sands": {
+        "title": "Concert's Final Hour",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850858/FlameForge/artifacts/artifact1703850866170.webp"
+      },
+      "plume": {
+        "title": "Bard's Arrow Feather",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850848/FlameForge/artifacts/artifact1703850856383.webp"
+      },
+      "circlet": {
+        "title": "Conductor's Top Hat",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850837/FlameForge/artifacts/artifact1703850845643.webp"
+      },
+      "goblet": {
+        "title": "Wanderer's String-Kettle",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850824/FlameForge/artifacts/artifact1703850832362.webp"
+      }
+    }
+  }
+]

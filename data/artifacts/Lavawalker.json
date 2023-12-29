@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Lavawalker",
+    "effect": {
+      "twoPc": "Pyro RES increased by 40%.",
+      "fourPc": "Increases DMG against opponents affected by Pyro by 35%."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Lavawalker's Resolution",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850397/FlameForge/artifacts/artifact1703850405062.webp"
+      },
+      "sands": {
+        "title": "Lavawalker's Torment",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850383/FlameForge/artifacts/artifact1703850390398.webp"
+      },
+      "plume": {
+        "title": "Lavawalker's Salvation",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850372/FlameForge/artifacts/artifact1703850380703.webp"
+      },
+      "circlet": {
+        "title": "Lavawalker's Wisdom",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850362/FlameForge/artifacts/artifact1703850369424.webp"
+      },
+      "goblet": {
+        "title": "Lavawalker's Epiphany",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703850350/FlameForge/artifacts/artifact1703850357568.webp"
+      }
+    }
+  }
+]
