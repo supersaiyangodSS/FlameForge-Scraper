@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Toukabou Shigure",
+    "desc": "A rather special oil-paper umbrella. While long wanderings may make one used to the wind and the rain, there might be some fun in admiring a rainy scene beneath this parasol.",
+    "rarity": 4,
+    "source": "Version 3.3 Event - Akitsu Kimodameshi",
+    "passive": "After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is defeated during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal 16% more DMG to the opponent affected by Cursed Parasol.",
+    "versionRelease": "3.3",
+    "region": "Inazuma",
+    "family": "Sword",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n11422/?lang=EN",
+    "affix": "Kaidan: Rainfall Earthbinder",
+    "baseAtk": 42.4,
+    "baseSubStat": 36,
+    "subStatType": "Elemental Mastery",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703868066/FlameForge/weapons/weapon1703868074346.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703868077/FlameForge/weapons/weapon1703868083766.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703868088/FlameForge/weapons/weapon1703868096077.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703868101/FlameForge/weapons/weapon1703868109461.webp"
+    }
+  }
+]

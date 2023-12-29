@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Wolf-Fang",
+    "desc": "Legend has it that this longsword was once used by a wandering knight in the distant past.",
+    "rarity": 4,
+    "source": "Battle Pass - Gnostic Hymn",
+    "passive": "DMG dealt by Elemental Skill and Elemental Burst is increased by 16%. When an Elemental Skill hits an opponent, its CRIT Rate will be increased by 2%. When an Elemental Burst hits an opponent, its CRIT Rate will be increased by 2%. Both of these effects last 10s separately, have 4 max stacks, and can be triggered once every 0.1s.",
+    "versionRelease": "4.0",
+    "region": "Mondstadt",
+    "family": "Sword",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n11424/?lang=EN",
+    "affix": "Northwind Wolf",
+    "baseAtk": 42.4,
+    "baseSubStat": 6,
+    "subStatType": "Critical Rate %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703868126/FlameForge/weapons/weapon1703868135080.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703868138/FlameForge/weapons/weapon1703868145267.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703868175/FlameForge/weapons/weapon1703868182640.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703868184/FlameForge/weapons/weapon1703868192627.webp"
+    }
+  }
+]

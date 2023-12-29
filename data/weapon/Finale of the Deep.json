@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Finale of the Deep",
+    "desc": "This longsword is as silent as the mysterious ocean depths. It is even more ancient than its stylings might imply.",
+    "rarity": 4,
+    "source": "Forged",
+    "passive": "When using an Elemental Skill, ATK will be increased by 12% for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of 150 ATK will be gained based on 2.4% of the total amount of the Life Bond cleared, lasting for 15s.",
+    "versionRelease": "4.0",
+    "region": "Fontaine",
+    "family": "Weapon",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n11425/?lang=EN",
+    "affix": "An End Sublime",
+    "baseAtk": 43.73,
+    "baseSubStat": 6,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703867737/FlameForge/weapons/weapon1703867744916.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703867753/FlameForge/weapons/weapon1703867760492.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703867769/FlameForge/weapons/weapon1703867775888.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703867782/FlameForge/weapons/weapon1703867789624.webp"
+    }
+  }
+]

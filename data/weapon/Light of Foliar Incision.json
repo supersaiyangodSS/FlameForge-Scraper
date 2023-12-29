@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Light of Foliar Incision",
+    "desc": "This gilded blade was made using precious white branches. It was once used to destroy countless poisons that infested the forest.",
+    "rarity": 5,
+    "source": "Event Wish Exclusive",
+    "passive": "CRIT Rate is increased by 4%. After Normal Attacks deal Elemental DMG, the Foliar Incision effect will be obtained, increasing DMG dealt by Normal Attacks and Elemental Skills by 120% of Elemental Mastery. This effect will disappear after 28 DMG instances or 12s. You can obtain Foliar Incision once every 12s.",
+    "versionRelease": "3.4",
+    "region": "Sumeru",
+    "family": "Sword",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n11512/?lang=EN",
+    "affix": "Whitemoon Bristle",
+    "baseAtk": 44.34,
+    "baseSubStat": 19.2,
+    "subStatType": "Critical Damage %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703867857/FlameForge/weapons/weapon1703867865942.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703867867/FlameForge/weapons/weapon1703867875675.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703867880/FlameForge/weapons/weapon1703867887327.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703867891/FlameForge/weapons/weapon1703867899678.webp"
+    }
+  }
+]
