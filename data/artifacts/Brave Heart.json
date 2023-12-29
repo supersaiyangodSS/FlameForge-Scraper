@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Brave Heart",
+    "effect": {
+      "twoPc": "ATK +18%.",
+      "fourPc": "Increases DMG by 30% against opponents with more than 50% HP."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Medal of the Brave",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703854029/FlameForge/artifacts/artifact1703854037405.webp"
+      },
+      "sands": {
+        "title": "Fortitude of the Brave",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703854020/FlameForge/artifacts/artifact1703854027304.webp"
+      },
+      "plume": {
+        "title": "Prospect of the Brave",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703854009/FlameForge/artifacts/artifact1703854017243.webp"
+      },
+      "circlet": {
+        "title": "Crown of the Brave",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703854000/FlameForge/artifacts/artifact1703854006917.webp"
+      },
+      "goblet": {
+        "title": "Outset of the Brave",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703853987/FlameForge/artifacts/artifact1703853995178.webp"
+      }
+    }
+  }
+]

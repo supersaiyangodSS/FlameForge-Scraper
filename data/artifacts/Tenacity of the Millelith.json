@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Tenacity of the Millelith",
+    "effect": {
+      "twoPc": "HP increased by 20%.",
+      "fourPc": "When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Flower of Accolades",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703854598/FlameForge/artifacts/artifact1703854606309.webp"
+      },
+      "sands": {
+        "title": "Orichalceous Time-Dial",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703854585/FlameForge/artifacts/artifact1703854593238.webp"
+      },
+      "plume": {
+        "title": "Ceremonial War-Plume",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703854574/FlameForge/artifacts/artifact1703854582505.webp"
+      },
+      "circlet": {
+        "title": "General's Ancient Helm",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703854563/FlameForge/artifacts/artifact1703854571671.webp"
+      },
+      "goblet": {
+        "title": "Noble's Pledging Vessel",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703854550/FlameForge/artifacts/artifact1703854558056.webp"
+      }
+    }
+  }
+]

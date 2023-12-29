@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Tiny Miracle",
+    "effect": {
+      "twoPc": "All Elemental RES increased by 20%.",
+      "fourPc": "Incoming elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Tiny Miracle's Flower",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703854837/FlameForge/artifacts/artifact1703854845151.webp"
+      },
+      "sands": {
+        "title": "Tiny Miracle's Hourglass",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703854810/FlameForge/artifacts/artifact1703854818432.webp"
+      },
+      "plume": {
+        "title": "Tiny Miracle's Feather",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703854799/FlameForge/artifacts/artifact1703854807467.webp"
+      },
+      "circlet": {
+        "title": "Tiny Miracle's Earrings",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703854785/FlameForge/artifacts/artifact1703854792719.webp"
+      },
+      "goblet": {
+        "title": "Tiny Miracle's Goblet",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703854772/FlameForge/artifacts/artifact1703854780222.webp"
+      }
+    }
+  }
+]

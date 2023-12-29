@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Thundering Fury",
+    "effect": {
+      "twoPc": "Electro DMG Bonus +15%",
+      "fourPc": "Increases damage caused by Overloaded, Electro-Charged and Superconduct by 40%. Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Thunderbird's Mercy",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703854713/FlameForge/artifacts/artifact1703854721463.webp"
+      },
+      "sands": {
+        "title": "Hourglass of Thunder",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703854701/FlameForge/artifacts/artifact1703854709609.webp"
+      },
+      "plume": {
+        "title": "Survivor of Catastrophe",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703854691/FlameForge/artifacts/artifact1703854699342.webp"
+      },
+      "circlet": {
+        "title": "Thunder Summoner's Crown",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703854681/FlameForge/artifacts/artifact1703854689531.webp"
+      },
+      "goblet": {
+        "title": "Omen of Thunderstorm",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703854654/FlameForge/artifacts/artifact1703854662332.webp"
+      }
+    }
+  }
+]
