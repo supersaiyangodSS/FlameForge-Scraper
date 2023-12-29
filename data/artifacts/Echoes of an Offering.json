@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Echoes of an Offering",
+    "effect": {
+      "twoPc": "ATK +18%.",
+      "fourPc": "When Normal Attacks hit opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack DMG by 70% of ATK. This effect will be dispelled 0.05s after a Normal Attack deals DMG. If a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by 20%. This trigger can occur once every 0.2s."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Soulscent Bloom",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703851392/FlameForge/artifacts/artifact1703851399704.webp"
+      },
+      "sands": {
+        "title": "Symbol of Felicitation",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703851380/FlameForge/artifacts/artifact1703851388144.webp"
+      },
+      "plume": {
+        "title": "Jade Leaf",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703851367/FlameForge/artifacts/artifact1703851375222.webp"
+      },
+      "circlet": {
+        "title": "Flowing Rings",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703851354/FlameForge/artifacts/artifact1703851362763.webp"
+      },
+      "goblet": {
+        "title": "Chalice of the Font",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703851340/FlameForge/artifacts/artifact1703851348489.webp"
+      }
+    }
+  }
+]

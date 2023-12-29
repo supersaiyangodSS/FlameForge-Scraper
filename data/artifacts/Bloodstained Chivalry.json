@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Bloodstained Chivalry",
+    "effect": {
+      "twoPc": "Physical DMG +25%",
+      "fourPc": "After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Bloodstained Flower of Iron",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703851280/FlameForge/artifacts/artifact1703851287572.webp"
+      },
+      "sands": {
+        "title": "Bloodstained Final Hour",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703851269/FlameForge/artifacts/artifact1703851277452.webp"
+      },
+      "plume": {
+        "title": "Bloodstained Black Plume",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703851259/FlameForge/artifacts/artifact1703851266878.webp"
+      },
+      "circlet": {
+        "title": "Bloodstained Iron Mask",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703851248/FlameForge/artifacts/artifact1703851256755.webp"
+      },
+      "goblet": {
+        "title": "Bloodstained Chevalier's Goblet",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703851232/FlameForge/artifacts/artifact1703851239966.webp"
+      }
+    }
+  }
+]
