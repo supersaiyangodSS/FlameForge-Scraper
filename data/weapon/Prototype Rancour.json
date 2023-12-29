@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Prototype Rancour",
+    "desc": "An ancient longsword discovered in the Blackcliff Forge that cuts through rocks like a hot knife through butter.",
+    "rarity": 4,
+    "source": "Forged",
+    "passive": "On hit, Normal or Charged Attacks increase ATK and DEF by 4% for 6s. Max 4 stacks. This effect can only occur once every 0.3s.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Sword",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n11406/?lang=EN",
+    "affix": "Smashed Stone",
+    "baseAtk": 43.73,
+    "baseSubStat": 7.51,
+    "subStatType": "Physical Damage %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703875252/FlameForge/weapons/weapon1703875261267.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703875262/FlameForge/weapons/weapon1703875270867.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703875273/FlameForge/weapons/weapon1703875280294.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703875282/FlameForge/weapons/weapon1703875291118.webp"
+    }
+  }
+]

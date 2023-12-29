@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Mistsplitter Reforged",
+    "desc": "A sword that blazes with a fierce violet light. The name \"Reforged\" comes from it having been broken once before.",
+    "rarity": 5,
+    "source": "Event Wish Exclusive",
+    "passive": "Gain a 12% Elemental DMG Bonus for all elements and receive the might of the Mistsplitter's Emblem. At stack levels 1/2/3, the Mistsplitter's Emblem provides a 8/16/28% Elemental DMG Bonus for the character's Elemental Type. The character will obtain 1 stack of Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.",
+    "versionRelease": "2.0",
+    "region": "Inazuma",
+    "family": "Sword",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n11509/?lang=EN",
+    "affix": "Mistsplitter's Edge",
+    "baseAtk": 47.54,
+    "baseSubStat": 9.6,
+    "subStatType": "Critical Damage %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703875204/FlameForge/weapons/weapon1703875212475.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703875212/FlameForge/weapons/weapon1703875220930.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703875224/FlameForge/weapons/weapon1703875231383.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703875233/FlameForge/weapons/weapon1703875242122.webp"
+    }
+  }
+]

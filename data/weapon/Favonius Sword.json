@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Favonius Sword",
+    "desc": "A standard-issue longsword of the Knights of Favonius. When you're armed with this agile and sharp weapon, channeling the power of the elements has never been so easy!",
+    "rarity": 4,
+    "source": "Wish",
+    "passive": "CRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s.",
+    "versionRelease": "1.0",
+    "region": "Mondstadt",
+    "family": "Sword",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n11401/?lang=EN",
+    "affix": "Windfall",
+    "baseAtk": 41.07,
+    "baseSubStat": 13.33,
+    "subStatType": "Energy Recharge %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703875106/FlameForge/weapons/weapon1703875114901.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703875116/FlameForge/weapons/weapon1703875124508.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703875125/FlameForge/weapons/weapon1703875133818.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703875137/FlameForge/weapons/weapon1703875145197.webp"
+    }
+  }
+]
