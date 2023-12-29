@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Archaic Petra",
+    "effect": {
+      "twoPc": "Gain a 15% Geo DMG Bonus.",
+      "fourPc": "Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Flower of Creviced Cliff",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703853285/FlameForge/artifacts/artifact1703853293513.webp"
+      },
+      "sands": {
+        "title": "Sundial of Enduring Jade",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703853270/FlameForge/artifacts/artifact1703853278869.webp"
+      },
+      "plume": {
+        "title": "Feather of Jagged Peaks",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703853261/FlameForge/artifacts/artifact1703853269554.webp"
+      },
+      "circlet": {
+        "title": "Mask of Solitude Basalt",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703853252/FlameForge/artifacts/artifact1703853260523.webp"
+      },
+      "goblet": {
+        "title": "Goblet of Chiseled Crag",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703853241/FlameForge/artifacts/artifact1703853249251.webp"
+      }
+    }
+  }
+]

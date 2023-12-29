@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Noblesse Oblige",
+    "effect": {
+      "twoPc": "Elemental Burst DMG +20%",
+      "fourPc": "Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack."
+    },
+    "fullSet": {
+      "flower": {
+        "title": "Royal Flora",
+        "piece": "Flower of Life",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703852333/FlameForge/artifacts/artifact1703852341264.webp"
+      },
+      "sands": {
+        "title": "Royal Pocket Watch",
+        "piece": "Sands of Eon",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703852308/FlameForge/artifacts/artifact1703852316535.webp"
+      },
+      "plume": {
+        "title": "Royal Plume",
+        "piece": "Plume of Death",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703852298/FlameForge/artifacts/artifact1703852305371.webp"
+      },
+      "circlet": {
+        "title": "Royal Masque",
+        "piece": "Circlet of Logos",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703852286/FlameForge/artifacts/artifact1703852293395.webp"
+      },
+      "goblet": {
+        "title": "Royal Silver Urn",
+        "piece": "Goblet of Eonothem",
+        "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703852273/FlameForge/artifacts/artifact1703852281074.webp"
+      }
+    }
+  }
+]
