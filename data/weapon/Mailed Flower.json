@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Mailed Flower",
+    "desc": "A graceful and elegant greatsword that is decorated with flowers and ribbons.",
+    "rarity": 4,
+    "source": "Version 3.5 Event - Windblume's Breath",
+    "passive": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by 12% and 48 respectively.",
+    "versionRelease": "3.5",
+    "region": "Mondstadt",
+    "family": "Claymore",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n12418/?lang=EN",
+    "affix": "Whispers of Wind and Flower",
+    "baseAtk": 43.73,
+    "baseSubStat": 24,
+    "subStatType": "Elemental Mastery",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953025/FlameForge/weapons/weapon1703953035751.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953037/FlameForge/weapons/weapon1703953045966.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953050/FlameForge/weapons/weapon1703953059702.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953062/FlameForge/weapons/weapon1703953073265.webp"
+    }
+  }
+]

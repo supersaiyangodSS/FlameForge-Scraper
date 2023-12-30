@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Snow-Tombed Starsilver",
+    "desc": "An ancient greatsword that was stored between frescoes. Forged from Starsilver, it has the power to cleave through ice and snow.",
+    "rarity": 4,
+    "source": "Forged",
+    "passive": "Hitting an opponent with Normal and Charged Attacks has a 60% chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to 80% of ATK. Opponents affected by Cryo are instead dealt DMG equal to 200% of ATK. Can only occur once every 10s.",
+    "family": "Claymore",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n12411/?lang=EN",
+    "affix": "Frost Burial",
+    "versionRelease": "1.2",
+    "region": "Mondstadt",
+    "baseAtk": 43.73,
+    "baseSubStat": 7.51,
+    "subStatType": "Physical Damage %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953223/FlameForge/weapons/weapon1703953233660.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953233/FlameForge/weapons/weapon1703953244248.webp",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953244/FlameForge/weapons/weapon1703953255081.webp",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953292/FlameForge/weapons/weapon1703953302879.webp"
+    }
+  }
+]

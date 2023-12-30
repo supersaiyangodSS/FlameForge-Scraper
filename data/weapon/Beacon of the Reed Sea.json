@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Beacon of the Reed Sea",
+    "desc": "A large, flat-tipped sword designed in to fit as the weapon of an ancient king or some ceremonial instrument.",
+    "rarity": 5,
+    "source": "Event Wish Exclusive",
+    "passive": "After the character's Elemental Skill hits an opponent, their ATK will be increased by 20% for 8s. After the character takes DMG, their ATK will be increased by 20% for 8s. The 2 aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by 32%.",
+    "versionRelease": "3.5",
+    "region": "Sumeru",
+    "family": "Claymore",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n12511/?lang=EN",
+    "affix": "Desert Watch",
+    "baseAtk": 45.94,
+    "baseSubStat": 7.2,
+    "subStatType": "Critical Rate %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703952876/FlameForge/weapons/weapon1703952885467.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703952895/FlameForge/weapons/weapon1703952905223.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703952911/FlameForge/weapons/weapon1703952919667.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703952922/FlameForge/weapons/weapon1703952933162.webp"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Forest Regalia",
+    "desc": "A weapon you obtained from an Aranara tale. It has taken on the shape of a greatsword that shall cut down the foes of the forest.",
+    "rarity": 4,
+    "source": "Forged",
+    "passive": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character 60 Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack.",
+    "versionRelease": "3.0",
+    "region": "Sumeru",
+    "family": "Claymore",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n12417/?lang=EN",
+    "affix": "Forest Sanctuary",
+    "baseAtk": 43.73,
+    "baseSubStat": 6.67,
+    "subStatType": "Energy Recharge %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703952982/FlameForge/weapons/weapon1703952992867.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703952992/FlameForge/weapons/weapon1703953002780.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953002/FlameForge/weapons/weapon1703953012651.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953014/FlameForge/weapons/weapon1703953024460.webp"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Tidal Shadow",
+    "desc": "An exquisitely-crafted, standard-model sword forged for the high-ranking officers and flagship captains of Fontaine's old navy.",
+    "rarity": 4,
+    "source": "Forged",
+    "passive": "After the wielder is healed, ATK will be increased by 24% for 8s. This can be triggered even when the character is not on the field.",
+    "versionRelease": "4.0",
+    "region": "Fontaine",
+    "family": "Claymore",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n12425/?lang=EN",
+    "affix": "White Cruising Wave",
+    "baseAtk": 42.4,
+    "baseSubStat": 9,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953356/FlameForge/weapons/weapon1703953367215.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953365/FlameForge/weapons/weapon1703953376068.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953377/FlameForge/weapons/weapon1703953387030.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953387/FlameForge/weapons/weapon1703953398138.webp"
+    }
+  }
+]

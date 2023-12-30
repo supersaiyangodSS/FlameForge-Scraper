@@ -2,8 +2,8 @@ import puppeteer from 'puppeteer';
 import fs from 'fs/promises';
 import saveFile from './helper/saveFile.js';
 
-const weaponUrl = 'https://genshin.honeyhunterworld.com/i_n11301/?lang=EN';
-const extraUrl = 'https://wiki.hoyolab.com/pc/genshin/entry/1938';
+const weaponUrl = 'https://genshin.honeyhunterworld.com/i_n12411/?lang=EN';
+const extraUrl = 'https://wiki.hoyolab.com/pc/genshin/entry/2043';
 
 
 const weaponExtraScraper = async () => {

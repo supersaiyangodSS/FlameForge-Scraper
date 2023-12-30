@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ultimate Overlord's Mega Magic Sword",
+    "desc": "A magical sword that can only be wielded by the ultimate overlord who rules the seas. As it has been made with special water-resistant materials, it will not get ruined by water damage even after being immersed. Why, one might even call it invincible!",
+    "rarity": 4,
+    "source": "Event Wish Exclusive",
+    "passive": "ATK increased by 12%. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional 12%.",
+    "family": "Claymore",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n12426/?lang=EN",
+    "affix": "Melussistance!",
+    "versionRelease": "4.4",
+    "region": "Fontaine",
+    "baseAtk": 43.73,
+    "baseSubStat": 6.67,
+    "subStatType": "Energy Recharge %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953398/FlameForge/weapons/weapon1703953408855.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953408/FlameForge/weapons/weapon1703953418409.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953418/FlameForge/weapons/weapon1703953428892.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953429/FlameForge/weapons/weapon1703953440200.webp"
+    }
+  }
+]

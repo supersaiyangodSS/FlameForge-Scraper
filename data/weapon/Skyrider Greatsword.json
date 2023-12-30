@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Skyrider Greatsword",
+    "desc": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword... for the second time.",
+    "rarity": 3,
+    "source": "Chests (Liyue)",
+    "passive": "On hit, Normal or Charged Attacks increase ATK by 6% for 6s. Max 4 stacks. Can occur once every 0.5s.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Claymore",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n12306/?lang=EN",
+    "affix": "Courage",
+    "baseAtk": 38.74,
+    "baseSubStat": 9.56,
+    "subStatType": "Physical Damage %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953177/FlameForge/weapons/weapon1703953187891.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953189/FlameForge/weapons/weapon1703953198079.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953201/FlameForge/weapons/weapon1703953210369.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953211/FlameForge/weapons/weapon1703953222193.webp"
+    }
+  }
+]

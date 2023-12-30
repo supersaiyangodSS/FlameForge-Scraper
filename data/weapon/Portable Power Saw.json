@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Portable Power Saw",
+    "desc": "An old-school power saw that you can rarely find nowadays. It was once a cutting tool trusted by workers all around.",
+    "rarity": 4,
+    "source": "Event Wish Exclusive",
+    "passive": "When the wielder is healed or heals others, they will gain a Stoic's Symbol that lasts 30s, up to a maximum of 3 Symbols. When using their Elemental Skill or Burst, all Symbols will be consumed and the Roused effect will be granted for 10s. For each Symbol consumed, gain 40 Elemental Mastery, and 2s after the effect occurs, 2 Energy per Symbol consumed will be restored for said character. The Roused effect can be triggered once every 15s, and Symbols can be gained even when the character is not on the field.",
+    "versionRelease": "4.1",
+    "region": "Fontaine",
+    "family": "Claymore",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n12427/?lang=EN",
+    "affix": "Sea Shanty",
+    "baseAtk": 41.07,
+    "baseSubStat": 12,
+    "subStatType": "Health %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953128/FlameForge/weapons/weapon1703953139048.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953137/FlameForge/weapons/weapon1703953147512.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953152/FlameForge/weapons/weapon1703953161523.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703953164/FlameForge/weapons/weapon1703953174353.webp"
+    }
+  }
+]
