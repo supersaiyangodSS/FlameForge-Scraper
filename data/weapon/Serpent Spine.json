@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Serpent Spine",
+    "desc": "A rare weapon whose origin is the ancient ocean. One can hear the sound of the ageless waves as one swings it.",
+    "rarity": 4,
+    "source": "Battle Pass - Gnostic Hymn",
+    "passive": "Every 4s a character is on the field, they will deal 6% more DMG and take 3% more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Claymore",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n12409/?lang=EN",
+    "affix": "Wavesplitter",
+    "baseAtk": 42.4,
+    "baseSubStat": 6,
+    "subStatType": "Critical Rate %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703957026/FlameForge/weapons/weapon1703957037374.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703957037/FlameForge/weapons/weapon1703957046432.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703957047/FlameForge/weapons/weapon1703957056700.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703957056/FlameForge/weapons/weapon1703957067184.webp"
+    }
+  }
+]

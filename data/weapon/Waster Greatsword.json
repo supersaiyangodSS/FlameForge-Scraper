@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Waster Greatsword",
+    "desc": "A sturdy sheet of iron that may be powerful enough to break apart mountains if wielded with enough willpower.",
+    "rarity": 1,
+    "source": "Chests",
+    "versionRelease": "1.0",
+    "passive": "-",
+    "region": "-",
+    "affix": "-",
+    "subStatType": "-",
+    "family": "Claymore",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n12101/?lang=EN",
+    "baseAtk": 23.25,
+    "baseSubStat": 0,
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703957109/FlameForge/weapons/weapon1703957119502.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703957117/FlameForge/weapons/weapon1703957127703.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703957126/FlameForge/weapons/weapon1703957135738.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703957134/FlameForge/weapons/weapon1703957145472.webp"
+    }
+  }
+]

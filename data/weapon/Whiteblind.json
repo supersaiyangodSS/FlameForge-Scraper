@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Whiteblind",
+    "desc": "An exotic sword with one section of the blade left blunt. It made its way into Liyue via the hands of foreign traders. Incredibly powerful in the hands of someone who knows how to use it.",
+    "rarity": 4,
+    "source": "Forged",
+    "passive": "On hit, Normal or Charged Attacks increase ATK and DEF by 6% for 6s. Max 4 stacks. This effect can only occur once every 0.5s.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Weapon",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n12407/?lang=EN",
+    "affix": "Infusion Blade",
+    "baseAtk": 42.4,
+    "baseSubStat": 11.26,
+    "subStatType": "Defense %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703957183/FlameForge/weapons/weapon1703957193848.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703957191/FlameForge/weapons/weapon1703957201897.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703957199/FlameForge/weapons/weapon1703957209799.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703957208/FlameForge/weapons/weapon1703957218624.webp"
+    }
+  }
+]

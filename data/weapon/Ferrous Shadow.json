@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ferrous Shadow",
+    "desc": "A replica of the famed sword of Arundolyn, the Lion of Light. Feel the power of a legendary hero as you hold this sword in your hand! Imagine yourself as the great warrior himself! Note: Daydreaming not recommended in live combat.",
+    "rarity": 3,
+    "source": "Wish",
+    "passive": "When HP falls below 70%, increases Charged Attack DMG by 30% and Charged Attacks become harder to interrupt.",
+    "versionRelease": "1.0",
+    "region": "Mondstadt",
+    "family": "Claymore",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n12301/?lang=EN",
+    "affix": "Unbending",
+    "baseAtk": 38.74,
+    "baseSubStat": 7.66,
+    "subStatType": "Health %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703956787/FlameForge/weapons/weapon1703956797656.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703956797/FlameForge/weapons/weapon1703956807503.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703956806/FlameForge/weapons/weapon1703956816228.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703956814/FlameForge/weapons/weapon1703956825039.webp"
+    }
+  }
+]

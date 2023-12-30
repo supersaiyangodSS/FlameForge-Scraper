@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Luxurious Sea-Lord",
+    "desc": "The great king of the ocean. Having been air-dried, it makes for a fine weapon as well as emergency sustenance.",
+    "rarity": 4,
+    "source": "Version 2.1 Event - Moonlight Merriment",
+    "passive": "Increases Elemental Burst DMG by 12%. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals 100% ATK as AoE DMG. This effect can occur once every 15s.",
+    "versionRelease": "2.1",
+    "region": "Liyue",
+    "family": "Claymore",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n12412/?lang=EN",
+    "affix": "Oceanic Victory",
+    "baseAtk": 41.07,
+    "baseSubStat": 12,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703956825/FlameForge/weapons/weapon1703956835877.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703956834/FlameForge/weapons/weapon1703956844471.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703956842/FlameForge/weapons/weapon1703956852805.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703956852/FlameForge/weapons/weapon1703956862715.webp"
+    }
+  }
+]
