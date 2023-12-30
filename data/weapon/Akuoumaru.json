@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Akuoumaru",
+    "desc": "The beloved sword of the legendary \"Akuou.\" The blade is huge and majestic, but is surprisingly easy to wield.",
+    "rarity": 4,
+    "source": "Event Wish Exclusive",
+    "passive": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.12%. A maximum of 40% increased Elemental Burst DMG can be achieved this way.",
+    "versionRelease": "2.2",
+    "region": "Inazuma",
+    "family": "Claymore",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n12416/?lang=EN",
+    "affix": "Watatsumi Wavewalker",
+    "baseAtk": 42.4,
+    "baseSubStat": 9,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703959269/FlameForge/weapons/weapon1703959279690.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703959279/FlameForge/weapons/weapon1703959288192.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703959287/FlameForge/weapons/weapon1703959297673.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703959296/FlameForge/weapons/weapon1703959306858.webp"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Debate Club",
+    "desc": "A handy club made of fine steel. The most persuasive line of reasoning in any debater's arsenal.",
+    "rarity": 3,
+    "source": "Wish",
+    "passive": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to 60% of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Claymore",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n12305/?lang=EN",
+    "affix": "Blunt Conclusion",
+    "baseAtk": 38.74,
+    "baseSubStat": 7.66,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703959352/FlameForge/weapons/weapon1703959362587.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703959361/FlameForge/weapons/weapon1703959371261.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703959371/FlameForge/weapons/weapon1703959380299.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703959379/FlameForge/weapons/weapon1703959390279.webp"
+    }
+  }
+]

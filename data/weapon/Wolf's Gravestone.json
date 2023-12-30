@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Wolf's Gravestone",
+    "desc": "A longsword used by the Wolf Knight. Originally just a heavy sheet of iron given to the knight by a blacksmith from the city, it became endowed with legendary power owing to his friendship with the wolves.",
+    "rarity": 5,
+    "source": "Wish",
+    "passive": "Increases ATK by 20%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 40% for 12s. Can only occur once every 30s.",
+    "versionRelease": "1.0",
+    "region": "Mondstadt",
+    "family": "Claymore",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n12502/?lang=EN",
+    "affix": "Wolfish Tracker",
+    "baseAtk": 45.94,
+    "baseSubStat": 10.8,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703960174/FlameForge/weapons/weapon1703960184774.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703960183/FlameForge/weapons/weapon1703960193330.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703960191/FlameForge/weapons/weapon1703960201420.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703960200/FlameForge/weapons/weapon1703960211072.webp"
+    }
+  }
+]
