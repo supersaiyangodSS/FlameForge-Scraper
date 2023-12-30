@@ -1,0 +1,23 @@
+[
+  {
+    "name": "The Alley Flash",
+    "desc": "A straight sword as black as the night. It once belonged to a thief who roamed the benighted streets.",
+    "rarity": 4,
+    "source": "Event Wish Exclusive",
+    "passive": "Increases DMG dealt by the character equipping this weapon by 12%. Taking DMG disables this effect for 5s.",
+    "versionRelease": "1.4",
+    "region": "Mondstadt",
+    "family": "Sword",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n11410/?lang=EN",
+    "affix": "Itinerant Hero",
+    "baseAtk": 45.07,
+    "baseSubStat": 12,
+    "subStatType": "Elemental Mastery",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703927857/FlameForge/weapons/weapon1703927866742.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703927866/FlameForge/weapons/weapon1703927875615.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703927876/FlameForge/weapons/weapon1703927885177.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703927885/FlameForge/weapons/weapon1703927895034.webp"
+    }
+  }
+]

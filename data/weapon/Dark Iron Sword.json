@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Dark Iron Sword",
+    "desc": "A perfectly ordinary iron sword, just slightly darker than most.",
+    "rarity": 3,
+    "source": "Chen the Sharp (Dialogue Reward)",
+    "passive": "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by 20% for 12s.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Sword",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n11304/?lang=EN",
+    "affix": "Overloaded",
+    "baseAtk": 38.74,
+    "baseSubStat": 30.6,
+    "subStatType": "Elemental Mastery",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703927492/FlameForge/weapons/weapon1703927502106.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703927504/FlameForge/weapons/weapon1703927512943.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703927514/FlameForge/weapons/weapon1703927524072.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703927524/FlameForge/weapons/weapon1703927533882.webp"
+    }
+  }
+]
