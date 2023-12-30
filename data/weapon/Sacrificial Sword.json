@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Sacrificial Sword",
+    "desc": "A ceremonial sword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
+    "rarity": 4,
+    "source": "Wish",
+    "passive": "After damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s.",
+    "versionRelease": "1.0",
+    "region": "Mondstadt",
+    "family": "Sword",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n11403/?lang=EN",
+    "affix": "Composed",
+    "baseAtk": 41.07,
+    "baseSubStat": 13.33,
+    "subStatType": "Energy Recharge %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703925453/FlameForge/weapons/weapon1703925463087.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703925471/FlameForge/weapons/weapon1703925479589.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703925482/FlameForge/weapons/weapon1703925491095.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703925492/FlameForge/weapons/weapon1703925502495.webp"
+    }
+  }
+]

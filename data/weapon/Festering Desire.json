@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Festering Desire",
+    "desc": "A creepy straight sword that almost seems to yearn for life. It drips with a shriveling venom that could even corrupt a mighty dragon.",
+    "rarity": 4,
+    "source": "Version 1.2 Event - The Chalk Prince and the Dragon",
+    "passive": "Increases Elemental Skill DMG by 16% and Elemental Skill CRIT Rate by 6%.",
+    "versionRelease": "1.2",
+    "region": "Mondstadt",
+    "family": "Sword",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n11413/?lang=EN",
+    "affix": "Undying Admiration",
+    "baseAtk": 42.4,
+    "baseSubStat": 10,
+    "subStatType": "Energy Recharge %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703924779/FlameForge/weapons/weapon1703924788579.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703924796/FlameForge/weapons/weapon1703924804895.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703924807/FlameForge/weapons/weapon1703924817308.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703924818/FlameForge/weapons/weapon1703924828010.webp"
+    }
+  }
+]
