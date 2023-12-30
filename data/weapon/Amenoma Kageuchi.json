@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Amenoma Kageuchi",
+    "desc": "A blade custom made for a famed samurai who could strike down a tengu warrior, known for their incredible agility, in midair.",
+    "rarity": 4,
+    "source": "Forged",
+    "passive": "After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates 6 Energy for each seed consumed.",
+    "versionRelease": "2.0",
+    "region": "Inazuma",
+    "family": "Sword",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n11414/?lang=EN",
+    "affix": "Iwakura Succession",
+    "baseAtk": 41.07,
+    "baseSubStat": 12,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703932916/FlameForge/weapons/weapon1703932925818.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703932973/FlameForge/weapons/weapon1703932982322.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703932985/FlameForge/weapons/weapon1703932994747.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703932995/FlameForge/weapons/weapon1703933005364.webp"
+    }
+  }
+]

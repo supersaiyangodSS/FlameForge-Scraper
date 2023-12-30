@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Fillet Blade",
+    "desc": "A sharp filleting knife. The blade is long, thin, and incredibly sharp.",
+    "rarity": 3,
+    "source": "Chests (Liyue)",
+    "passive": "On hit, has a 50% chance to deal 240% ATK DMG to a single opponent. Can only occur once every 15s.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Sword",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n11305/?lang=EN",
+    "affix": "Gash",
+    "baseAtk": 38.74,
+    "baseSubStat": 7.66,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703933170/FlameForge/weapons/weapon1703933180069.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703933180/FlameForge/weapons/weapon1703933189041.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703933190/FlameForge/weapons/weapon1703933199323.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703933200/FlameForge/weapons/weapon1703933210210.webp"
+    }
+  }
+]

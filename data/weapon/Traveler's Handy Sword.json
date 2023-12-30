@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Traveler's Handy Sword",
+    "desc": "A handy steel sword which contains scissors, a magnifying glass, tinder, and other useful items in its sheath.",
+    "rarity": 3,
+    "source": "Chests (Mondstadt)",
+    "passive": "Each Elemental Orb or Particle collected restores 1% HP.",
+    "versionRelease": "1.0",
+    "region": "Mondstadt",
+    "family": "Sword",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n11303/?lang=EN",
+    "affix": "Journey",
+    "baseAtk": 39.88,
+    "baseSubStat": 6.37,
+    "subStatType": "Defense %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703933397/FlameForge/weapons/weapon1703933407586.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703933412/FlameForge/weapons/weapon1703933420460.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703933421/FlameForge/weapons/weapon1703933431421.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703933431/FlameForge/weapons/weapon1703933441696.webp"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Royal Longsword",
+    "desc": "An old longsword that belonged to the erstwhile rulers of Mondstadt. Exquisitely crafted, the carvings and embellishments testify to the stature of its owner.",
+    "rarity": 4,
+    "source": "Paimon's Bargains - Starglitter Exchange",
+    "passive": "Upon damaging an opponent, increases CRIT Rate by 8%. Max 5 stacks. A CRIT Hit removes all stacks.",
+    "versionRelease": "1.0",
+    "region": "Mondstadt",
+    "family": "Sword",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n11404/?lang=EN",
+    "affix": "Focus",
+    "baseAtk": 42.4,
+    "baseSubStat": 9,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703933258/FlameForge/weapons/weapon1703933268580.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703933267/FlameForge/weapons/weapon1703933276991.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703933276/FlameForge/weapons/weapon1703933286290.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1703933287/FlameForge/weapons/weapon1703933297339.webp"
+    }
+  }
+]
