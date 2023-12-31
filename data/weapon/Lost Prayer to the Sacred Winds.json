@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Lost Prayer to the Sacred Winds",
+    "desc": "An educational tome written by anonymous early inhabitants who worshiped the wind. It has been blessed by the wind for its faithfulness and influence over the millennia.",
+    "rarity": 5,
+    "source": "Wish",
+    "passive": "Increases Movement SPD by 10%. When in battle, gain an 8% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
+    "versionRelease": "1.0",
+    "region": "Mondstadt",
+    "family": "Catalyst",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n14502/?lang=EN",
+    "affix": "Boundless Blessing",
+    "baseAtk": 45.94,
+    "baseSubStat": 7.2,
+    "subStatType": "Critical Rate %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049327/FlameForge/weapons/weapon1704049340070.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049336/FlameForge/weapons/weapon1704049349191.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049348/FlameForge/weapons/weapon1704049360316.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049364/FlameForge/weapons/weapon1704049377294.webp"
+    }
+  }
+]

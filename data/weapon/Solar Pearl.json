@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Solar Pearl",
+    "desc": "A dull, golden pearl made of an unknown substance that harbors the light of the sun and the moon and pulses with a warm strength.",
+    "rarity": 4,
+    "source": "Battle Pass - Gnostic Hymn",
+    "passive": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 20% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 20% for 6s.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Catalyst",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n14405/?lang=EN",
+    "affix": "Solar Shine",
+    "baseAtk": 42.4,
+    "baseSubStat": 6,
+    "subStatType": "Critical Rate %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049662/FlameForge/weapons/weapon1704049674658.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049674/FlameForge/weapons/weapon1704049685779.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049683/FlameForge/weapons/weapon1704049695649.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049693/FlameForge/weapons/weapon1704049706288.webp"
+    }
+  }
+]

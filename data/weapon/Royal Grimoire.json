@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Royal Grimoire",
+    "desc": "A book that once belonged to a court mage of Mondstadt who served the nobility. It contains faithful and comprehensive historical accounts as well as magic spells.",
+    "rarity": 4,
+    "source": "Paimon's Bargains - Starglitter Exchange",
+    "passive": "Upon damaging an opponent, increases CRIT Rate by 8%. Max 5 stacks. A CRIT Hit removes all stacks.",
+    "versionRelease": "1.0",
+    "region": "Mondstadt",
+    "family": "Catalyst",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n14404/?lang=EN",
+    "affix": "Focus",
+    "baseAtk": 43.73,
+    "baseSubStat": 6,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049565/FlameForge/weapons/weapon1704049578233.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049574/FlameForge/weapons/weapon1704049587278.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049586/FlameForge/weapons/weapon1704049597695.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049596/FlameForge/weapons/weapon1704049609759.webp"
+    }
+  }
+]

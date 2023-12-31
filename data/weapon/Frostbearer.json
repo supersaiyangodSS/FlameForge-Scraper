@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Frostbearer",
+    "desc": "A fruit that possesses a strange, frosty will. A faint sense of agony emanates from it.",
+    "rarity": 4,
+    "source": "Forged",
+    "passive": "Hitting an opponent with Normal and Charged Attacks has a 60% chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to 80% of ATK. Opponents affected by Cryo are instead dealt DMG equal to 200% of ATK. Can only occur once every 10s.",
+    "versionRelease": "1.2",
+    "region": "Mondstadt",
+    "family": "Catalyst",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n14412/?lang=EN",
+    "affix": "Frost Burial",
+    "baseAtk": 42.4,
+    "baseSubStat": 9,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049282/FlameForge/weapons/weapon1704049295123.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049292/FlameForge/weapons/weapon1704049304267.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049304/FlameForge/weapons/weapon1704049316582.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049313/FlameForge/weapons/weapon1704049326482.webp"
+    }
+  }
+]

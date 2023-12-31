@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Memory of Dust",
+    "desc": "A stone dumbbell containing distant memories. Its endless transformations reveal the power within.",
+    "rarity": 5,
+    "source": "Event Wish Exclusive",
+    "passive": "Increases Shield Strength by 20%. Scoring hits on opponents increases ATK by 4% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
+    "versionRelease": "1.1",
+    "region": "Liyue",
+    "family": "Catalyst",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n14504/?lang=EN",
+    "affix": "Golden Majesty",
+    "baseAtk": 45.94,
+    "baseSubStat": 10.8,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049423/FlameForge/weapons/weapon1704049436699.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049433/FlameForge/weapons/weapon1704049446328.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049443/FlameForge/weapons/weapon1704049455660.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704049452/FlameForge/weapons/weapon1704049465471.webp"
+    }
+  }
+]
