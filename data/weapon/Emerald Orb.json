@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Emerald Orb",
+    "desc": "A catalyst carved out of the hard jade from Jueyun Karst north of Liyue. Small, light, and durable, it is known more colloquially as the \"jade ball.\"",
+    "rarity": 3,
+    "source": "Wish",
+    "passive": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by 20% for 12s.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Catalyst",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n14304/?lang=EN",
+    "affix": "Rapids",
+    "baseAtk": 39.88,
+    "baseSubStat": 20.4,
+    "subStatType": "Elemental Mastery",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047463/FlameForge/weapons/weapon1704047475659.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047476/FlameForge/weapons/weapon1704047488885.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047489/FlameForge/weapons/weapon1704047501297.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047499/FlameForge/weapons/weapon1704047511971.webp"
+    }
+  }
+]

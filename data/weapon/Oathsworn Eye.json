@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Oathsworn Eye",
+    "desc": "A national treasure of Byakuyakoku stored in the Dainichi Mikoshi. With the coming of the Serpent God, this item was used to notarize great oaths and wishes.",
+    "rarity": 4,
+    "source": "Version 2.5 Event - Three Realms Gateway Offering",
+    "passive": "Increases Energy Recharge by 24% for 10s after using an Elemental Skill.",
+    "versionRelease": "2.5",
+    "region": "Inazuma",
+    "family": "Catalyst",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n14415/?lang=EN",
+    "affix": "People of the Faltering Light",
+    "baseAtk": 43.73,
+    "baseSubStat": 6,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047701/FlameForge/weapons/weapon1704047714018.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047711/FlameForge/weapons/weapon1704047722811.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047721/FlameForge/weapons/weapon1704047733155.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047730/FlameForge/weapons/weapon1704047743312.webp"
+    }
+  }
+]

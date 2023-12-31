@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Thrilling Tales of Dragon Slayers",
+    "desc": "A fictional story of a band of five heroes who go off on a dragon hunt. It is poorly written and structurally incoherent. Its value lies in the many lessons that can be learned from failure.",
+    "rarity": 3,
+    "source": "Wish",
+    "passive": "When switching characters, the new character taking the field has their ATK increased by 24% for 10s. This effect can only occur once every 20s.",
+    "versionRelease": "1.0",
+    "region": "Mondstadt",
+    "family": "Catalyst",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n14302/?lang=EN",
+    "affix": "Heritage",
+    "baseAtk": 38.74,
+    "baseSubStat": 7.66,
+    "subStatType": "Health %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047864/FlameForge/weapons/weapon1704047877691.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047873/FlameForge/weapons/weapon1704047886180.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047883/FlameForge/weapons/weapon1704047895832.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047892/FlameForge/weapons/weapon1704047904802.webp"
+    }
+  }
+]

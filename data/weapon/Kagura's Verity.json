@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Kagura's Verity",
+    "desc": "The bells used when performing the Kagura Dance, blessed by the Guuji herself. The scent of the Sacred Sakura tree lingers on it.",
+    "rarity": 5,
+    "source": "Event Wish Exclusive",
+    "passive": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by 12% for 16s. Max 3 stacks. This character will gain 12% All Elemental DMG Bonus when they possess 3 stacks.",
+    "versionRelease": "2.5",
+    "region": "Inazuma",
+    "family": "Catalyst",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n14509/?lang=EN",
+    "affix": "Kagura Dance of the Sacred Sakura",
+    "baseAtk": 45.94,
+    "baseSubStat": 14.4,
+    "subStatType": "Critical Damage %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047659/FlameForge/weapons/weapon1704047671986.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047668/FlameForge/weapons/weapon1704047680876.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047677/FlameForge/weapons/weapon1704047689516.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047687/FlameForge/weapons/weapon1704047700104.webp"
+    }
+  }
+]

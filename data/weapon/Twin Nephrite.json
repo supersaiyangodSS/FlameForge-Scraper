@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Twin Nephrite",
+    "desc": "A jade pendant formed by piecing together two jade stones.",
+    "rarity": 3,
+    "source": "Chests (Liyue)",
+    "passive": "Defeating an opponent increases Movement SPD and ATK by 12% for 15s.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Catalyst",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n14305/?lang=EN",
+    "affix": "Guerilla Tactics",
+    "baseAtk": 39.88,
+    "baseSubStat": 3.4,
+    "subStatType": "Critical Rate %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047908/FlameForge/weapons/weapon1704047921433.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047918/FlameForge/weapons/weapon1704047930749.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047926/FlameForge/weapons/weapon1704047938811.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047934/FlameForge/weapons/weapon1704047947148.webp"
+    }
+  }
+]

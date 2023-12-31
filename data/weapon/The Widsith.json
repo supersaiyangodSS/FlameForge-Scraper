@@ -1,0 +1,23 @@
+[
+  {
+    "name": "The Widsith",
+    "desc": "A heavy notebook filled with musical scores. Though suffering from moth damage and heavy wear-and-tear, there is still much power to be found among the hand-written words within.",
+    "rarity": 4,
+    "source": "Wish",
+    "passive": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 60%. Aria: Increases all Elemental DMG by 48%. Interlude: Elemental Mastery is increased by 240.",
+    "versionRelease": "1.0",
+    "region": "Mondstadt",
+    "family": "Catalyst",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n14402/?lang=EN",
+    "affix": "Debut",
+    "baseAtk": 42.4,
+    "baseSubStat": 12,
+    "subStatType": "Critical Damage %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047827/FlameForge/weapons/weapon1704047840366.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047837/FlameForge/weapons/weapon1704047848677.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047846/FlameForge/weapons/weapon1704047857901.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704047854/FlameForge/weapons/weapon1704047867618.webp"
+    }
+  }
+]
