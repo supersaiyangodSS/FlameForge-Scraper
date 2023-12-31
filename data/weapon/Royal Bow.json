@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Royal Bow",
+    "desc": "An old longbow that belonged to the erstwhile aristocratic rulers of Mondstadt. Countless generations later, the bowstring is still tight and can still fire arrows with great force.",
+    "rarity": 4,
+    "source": "Paimon's Bargains - Starglitter Exchange",
+    "passive": "Upon damaging an opponent, increases CRIT Rate by 8%. Max 5 stacks. A CRIT Hit removes all stacks.",
+    "versionRelease": "1.0",
+    "region": "Mondstadt",
+    "family": "Bow",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n15404/?lang=EN",
+    "affix": "Focus",
+    "baseAtk": 42.4,
+    "baseSubStat": 9,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704042703/FlameForge/weapons/weapon1704042715894.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704042713/FlameForge/weapons/weapon1704042724855.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704042722/FlameForge/weapons/weapon1704042734903.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704042731/FlameForge/weapons/weapon1704042744448.webp"
+    }
+  }
+]

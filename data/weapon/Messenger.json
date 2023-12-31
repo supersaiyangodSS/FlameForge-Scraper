@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Messenger",
+    "desc": "A basic wooden bow. It is said to have once been used as a tool for long-distance communication.",
+    "rarity": 3,
+    "source": "Chests (Liyue)",
+    "passive": "Charged Attack hits on weak points deal an additional 100% ATK DMG as CRIT DMG. Can only occur once every 10s.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Bow",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n15305/?lang=EN",
+    "affix": "Archer's Message",
+    "baseAtk": 39.88,
+    "baseSubStat": 6.8,
+    "subStatType": "Critical Damage %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704042393/FlameForge/weapons/weapon1704042406571.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704042408/FlameForge/weapons/weapon1704042420438.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704042420/FlameForge/weapons/weapon1704042432785.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704042430/FlameForge/weapons/weapon1704042443364.webp"
+    }
+  }
+]

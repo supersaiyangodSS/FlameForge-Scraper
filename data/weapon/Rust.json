@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Rust",
+    "desc": "A completely rusted iron greatbow. The average person would lack the strength to even lift it, let alone fire it.",
+    "rarity": 4,
+    "source": "Wish",
+    "passive": "Increases Normal Attack DMG by 40% but decreases Charged Attack DMG by 10%.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Bow",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n15405/?lang=EN",
+    "affix": "Rapid Firing",
+    "baseAtk": 42.4,
+    "baseSubStat": 9,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704042742/FlameForge/weapons/weapon1704042754993.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704042752/FlameForge/weapons/weapon1704042764550.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704042762/FlameForge/weapons/weapon1704042774807.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704042773/FlameForge/weapons/weapon1704042786094.webp"
+    }
+  }
+]

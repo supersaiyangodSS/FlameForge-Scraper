@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Polar Star",
+    "desc": "A pristine bow that is as sharp as the glaciers of the far north.",
+    "rarity": 5,
+    "source": "Event Wish Exclusive",
+    "passive": "Elemental Skill and Elemental Burst DMG increased by 12%. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by 10/20/30/48%. The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others.",
+    "versionRelease": "2.2",
+    "region": "Ascension - Inazuma",
+    "family": "Bow",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n15507/?lang=EN",
+    "affix": "Daylight's Augury",
+    "baseAtk": 45.94,
+    "baseSubStat": 7.2,
+    "subStatType": "Critical Rate %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704042577/FlameForge/weapons/weapon1704042590209.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704042586/FlameForge/weapons/weapon1704042598628.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704042596/FlameForge/weapons/weapon1704042608461.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704042605/FlameForge/weapons/weapon1704042618012.webp"
+    }
+  }
+]
