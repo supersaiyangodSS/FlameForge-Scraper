@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Sacrificial Bow",
+    "desc": "A ceremonial hunting bow that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
+    "rarity": 4,
+    "source": "Wish",
+    "passive": "After damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s.",
+    "versionRelease": "1.0",
+    "region": "Mondstadt",
+    "family": "Bow",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n15403/?lang=EN",
+    "affix": "Composed",
+    "baseAtk": 43.73,
+    "baseSubStat": 6.67,
+    "subStatType": "Energy Recharge %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704036390/FlameForge/weapons/weapon1704036402668.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704036398/FlameForge/weapons/weapon1704036410984.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704036408/FlameForge/weapons/weapon1704036420426.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704036417/FlameForge/weapons/weapon1704036430574.webp"
+    }
+  }
+]

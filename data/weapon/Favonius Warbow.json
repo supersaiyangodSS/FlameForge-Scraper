@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Favonius Warbow",
+    "desc": "A standard-issue recurve bow of the Knights of Favonius. Only the best archers can unleash its full potential.",
+    "rarity": 4,
+    "source": "Wish",
+    "passive": "CRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s.",
+    "versionRelease": "1.0",
+    "region": "Mondstadt",
+    "family": "Bow",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n15401/?lang=EN",
+    "affix": "Windfall",
+    "baseAtk": 41.07,
+    "baseSubStat": 13.33,
+    "subStatType": "Energy Recharge %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704036241/FlameForge/weapons/weapon1704036253772.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704036249/FlameForge/weapons/weapon1704036262279.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704036260/FlameForge/weapons/weapon1704036271254.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704036270/FlameForge/weapons/weapon1704036282462.webp"
+    }
+  }
+]

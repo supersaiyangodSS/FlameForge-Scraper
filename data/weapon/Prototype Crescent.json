@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Prototype Crescent",
+    "desc": "A prototype longbow discovered in the Blackcliff Forge. The arrow fired from this bow glimmers like a ray of moonlight.",
+    "rarity": 4,
+    "source": "Forged",
+    "passive": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by 36% for 10s.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Weapon",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n15406/?lang=EN",
+    "affix": "Unreturning",
+    "baseAtk": 42.4,
+    "baseSubStat": 9,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704036331/FlameForge/weapons/weapon1704036344232.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704036340/FlameForge/weapons/weapon1704036352903.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704036350/FlameForge/weapons/weapon1704036362396.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704036359/FlameForge/weapons/weapon1704036371642.webp"
+    }
+  }
+]
