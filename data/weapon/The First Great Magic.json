@@ -1,0 +1,23 @@
+[
+  {
+    "name": "The First Great Magic",
+    "desc": "A stage prop once used by a past \"Great Magician.\" Its final secret was that it was also a weapon beyond the pale.",
+    "rarity": 5,
+    "source": "Event Wish Exclusive",
+    "passive": "DMG dealt by Charged Attacks increased by 16%. For every party member with the same Elemental Type as the wielder (including the wielder themselves), gain 1 Gimmick stack. For every party member with a different Elemental Type from the wielder, gain 1 Theatrics stack. When the wielder has 1/2/3 or more Gimmick stacks, ATK will be increased by 16%/32%/48%. When the wielder has 1/2/3 or more Theatrics stacks, Movement SPD will be increased by 4%/7%/10%.",
+    "versionRelease": "4.0",
+    "region": "Fontaine",
+    "family": "Bow",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n15512/?lang=EN",
+    "affix": "Parsifal the Great",
+    "baseAtk": 45.94,
+    "baseSubStat": 14.4,
+    "subStatType": "Critical Damage %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021428/FlameForge/weapons/weapon1704021440413.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021437/FlameForge/weapons/weapon1704021449793.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021447/FlameForge/weapons/weapon1704021459553.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021456/FlameForge/weapons/weapon1704021468679.webp"
+    }
+  }
+]

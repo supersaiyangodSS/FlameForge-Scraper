@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Scion of the Blazing Sun",
+    "desc": "An ancient longbow that is a remnant of King Deshret's ancient era. An indecipherable ancient text and solemn patterns have been carved into it.",
+    "rarity": 4,
+    "source": "Battle Pass - Gnostic Hymn",
+    "passive": "After a Charged Attack hits an opponent, a Sunfire Arrow will descend upon the opponent hit, dealing 60% ATK as DMG, and applying the Heartsearer effect to the opponent damaged by said Arrow for 10s. Opponents affected by Heartsearer take 28% more Charged Attack DMG from the wielder. A Sunfire Arrow can be triggered once every 10s.",
+    "versionRelease": "4.0",
+    "region": "Sumeru",
+    "family": "Bow",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n15424/?lang=EN",
+    "affix": "The Way of Sunfire",
+    "baseAtk": 43.73,
+    "baseSubStat": 4,
+    "subStatType": "Critical Rate %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021342/FlameForge/weapons/weapon1704021354708.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021353/FlameForge/weapons/weapon1704021363508.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021362/FlameForge/weapons/weapon1704021374194.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021375/FlameForge/weapons/weapon1704021387157.webp"
+    }
+  }
+]

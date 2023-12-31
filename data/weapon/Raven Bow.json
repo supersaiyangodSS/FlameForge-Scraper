@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Raven Bow",
+    "desc": "Ravens are known to be the ferrymen of the dead. This bow's limb is decorated with raven feathers, which forebode the imminent death of its target.",
+    "rarity": 3,
+    "source": "Wish",
+    "passive": "Increases DMG against opponents affected by Hydro or Pyro by 12%.",
+    "versionRelease": "1.0",
+    "region": "Mondstadt",
+    "family": "Bow",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n15301/?lang=EN",
+    "affix": "Bane of Flame and Water",
+    "baseAtk": 39.88,
+    "baseSubStat": 20.4,
+    "subStatType": "Elemental Mastery",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021294/FlameForge/weapons/weapon1704021307061.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021304/FlameForge/weapons/weapon1704021315835.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021315/FlameForge/weapons/weapon1704021326350.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021325/FlameForge/weapons/weapon1704021337992.webp"
+    }
+  }
+]

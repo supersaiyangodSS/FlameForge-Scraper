@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Blackcliff Warbow",
+    "desc": "A bow made of blackcliff that features extremely sturdy bow limbs. It requires an archer with a strong bow arm to use.",
+    "rarity": 4,
+    "source": "Paimon's Bargains - Starglitter Exchange",
+    "passive": "After defeating an enemy, ATK is increased by 12% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Bow",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n15408/?lang=EN",
+    "affix": "Press the Advantage",
+    "baseAtk": 43.73,
+    "baseSubStat": 8,
+    "subStatType": "Critical Damage %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704020939/FlameForge/weapons/weapon1704020951598.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704020950/FlameForge/weapons/weapon1704020962485.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704020961/FlameForge/weapons/weapon1704020973187.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704020970/FlameForge/weapons/weapon1704020983051.webp"
+    }
+  }
+]

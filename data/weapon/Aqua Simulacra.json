@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Aqua Simulacra",
+    "desc": "This longbow's color is unpredictable. Under the light, it takes on a lustrous, watery blue.",
+    "rarity": 5,
+    "source": "Event Wish Exclusive",
+    "passive": "HP is increased by 16%. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by 20%. This will take effect whether the character is on-field or not.",
+    "versionRelease": "2.7",
+    "region": "Liyue",
+    "family": "Bow",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n15508/?lang=EN",
+    "affix": "The Cleansing Form",
+    "baseAtk": 44.34,
+    "baseSubStat": 19.2,
+    "subStatType": "Critical Damage %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704020883/FlameForge/weapons/weapon1704020895617.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704020901/FlameForge/weapons/weapon1704020911914.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704020915/FlameForge/weapons/weapon1704020927205.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704020925/FlameForge/weapons/weapon1704020937983.webp"
+    }
+  }
+]

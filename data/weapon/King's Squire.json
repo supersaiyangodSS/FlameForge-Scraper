@@ -1,0 +1,23 @@
+[
+  {
+    "name": "King's Squire",
+    "desc": "A weapon you obtained from an Aranara tale. It has taken on the shape of a bow that can shoot the enemies of the forest down.",
+    "rarity": 4,
+    "source": "Forged",
+    "passive": "Obtain the Teachings of the Forest effect when unleashing Elemental Skills and Bursts, increasing Elemental Mastery by 60 for 12s. This effect will be removed when switching characters. When the Teachings of the Forest effect ends or is removed, it will deal 100% of ATK as DMG to 1 nearby opponent. The Teachings of the Forest effect can be triggered once every 20s.",
+    "versionRelease": "3.0",
+    "region": "Sumeru",
+    "family": "Weapon",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n15417/?lang=EN",
+    "affix": "Labyrinth Lord's Instruction",
+    "baseAtk": 41.07,
+    "baseSubStat": 12,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021200/FlameForge/weapons/weapon1704021212255.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021211/FlameForge/weapons/weapon1704021221386.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021222/FlameForge/weapons/weapon1704021233065.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021232/FlameForge/weapons/weapon1704021244411.webp"
+    }
+  }
+]

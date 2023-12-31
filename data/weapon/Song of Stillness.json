@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Song of Stillness",
+    "desc": "A strange longbow that resembles a sea creature. Its string makes no sound at all.",
+    "rarity": 4,
+    "source": "Forged",
+    "passive": "After the wielder is healed, they will deal 16% more DMG for 8s. This can be triggered even when the character is not on the field.",
+    "versionRelease": "4.0",
+    "region": "Fontaine",
+    "family": "Weapon",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n15425/?lang=EN",
+    "affix": "Benthic Pulse",
+    "baseAtk": 42.4,
+    "baseSubStat": 9,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021387/FlameForge/weapons/weapon1704021400001.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021397/FlameForge/weapons/weapon1704021408879.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021407/FlameForge/weapons/weapon1704021419042.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021417/FlameForge/weapons/weapon1704021429410.webp"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "End of the Line",
+    "desc": "This seems to be a now-extinct fish. Its body is sufficiently elastic that a string may be attached to it to let it serve as a bow.",
+    "rarity": 4,
+    "source": "Exchange at the Sumeru Fishing Association",
+    "passive": "Triggers the Flowrider effect after using an Elemental Skill, dealing 80% ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.",
+    "versionRelease": "3.0",
+    "region": "Sumeru",
+    "family": "Bow",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n15418/?lang=EN",
+    "affix": "Net Snapper",
+    "baseAtk": 42.4,
+    "baseSubStat": 10,
+    "subStatType": "Energy Recharge %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704020984/FlameForge/weapons/weapon1704020996599.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704020995/FlameForge/weapons/weapon1704021005779.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021005/FlameForge/weapons/weapon1704021016111.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704021015/FlameForge/weapons/weapon1704021027145.webp"
+    }
+  }
+]
