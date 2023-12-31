@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ballad of the Boundless Blue",
+    "desc": "An anthology of exquisite poetry. It contains quite a few poems beloved by Mondstadters, concerning the skies, dandelions, and other such topics.",
+    "rarity": 4,
+    "source": "Version 4.1 Event - Waterborne Poetry",
+    "passive": "Within 6s after Normal or Charged Attacks hit an opponent, Normal Attack DMG will be increased by 8% and Charged Attack DMG will be increased by 6%. Max 3 stacks. This effect can be triggered once every 0.3s.",
+    "versionRelease": "4.1",
+    "region": "Mondstadt",
+    "family": "Catalyst",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n14426/?lang=EN",
+    "affix": "Azure Skies",
+    "baseAtk": 43.73,
+    "baseSubStat": 6.67,
+    "subStatType": "Energy Recharge %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045307/FlameForge/weapons/weapon1704045320022.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045317/FlameForge/weapons/weapon1704045328488.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045327/FlameForge/weapons/weapon1704045338884.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045336/FlameForge/weapons/weapon1704045349215.webp"
+    }
+  }
+]

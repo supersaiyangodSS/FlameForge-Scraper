@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Fruit of Fulfillment",
+    "desc": "A fruit you obtained from an Aranara tale. It holds the potential to conquer any crisis.",
+    "rarity": 4,
+    "source": "Forged",
+    "passive": "Obtain the \"Wax and Wane\" effect after an Elemental Reaction is triggered, gaining 24 Elemental Mastery while losing 5% ATK. For every 0.3s, 1 stack of Wax and Wane can be gained. Max 5 stacks. For every 6s that go by without an Elemental Reaction being triggered, 1 stack will be lost. This effect can be triggered even when the character is off-field.",
+    "versionRelease": "3.0",
+    "region": "Sumeru",
+    "family": "Catalyst",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n14417/?lang=EN",
+    "affix": "Full Circle",
+    "baseAtk": 42.4,
+    "baseSubStat": 10,
+    "subStatType": "Energy Recharge %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045464/FlameForge/weapons/weapon1704045477017.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045472/FlameForge/weapons/weapon1704045485242.webp",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045482/FlameForge/weapons/weapon1704045494557.webp",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045490/FlameForge/weapons/weapon1704045502993.webp"
+    }
+  }
+]

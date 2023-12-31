@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Sacrificial Jade",
+    "desc": "An ancient jade pendant that gleams like clear water. It seems to have been used in ancient ceremonies.",
+    "rarity": 4,
+    "source": "Battle Pass - Gnostic Hymn",
+    "passive": "When not on the field for more than 5s, Max HP will be increased by 32% and Elemental Mastery will be increased by 40. These effects will be canceled after the wielder has been on the field for 10s.",
+    "versionRelease": "4.0",
+    "region": "Liyue",
+    "family": "Catalyst",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n14424/?lang=EN",
+    "affix": "Jade Circulation",
+    "baseAtk": 41.07,
+    "baseSubStat": 8,
+    "subStatType": "Critical Rate %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045601/FlameForge/weapons/weapon1704045614429.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045612/FlameForge/weapons/weapon1704045622955.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045631/FlameForge/weapons/weapon1704045643190.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045642/FlameForge/weapons/weapon1704045655002.webp"
+    }
+  }
+]

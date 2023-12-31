@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Blackcliff Agate",
+    "desc": "A mysterious catalyst made of a material known as \"blackcliff.\" It has an ominous crimson glow that seems to pulse in synchronization with the tremors from deep within the earth.",
+    "rarity": 4,
+    "source": "Paimon's Bargains - Starglitter Exchange",
+    "passive": "After defeating an enemy, ATK is increased by 12% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Catalyst",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n14408/?lang=EN",
+    "affix": "Press the Advantage",
+    "baseAtk": 42.4,
+    "baseSubStat": 12,
+    "subStatType": "Critical Damage %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045346/FlameForge/weapons/weapon1704045359062.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045354/FlameForge/weapons/weapon1704045366705.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045363/FlameForge/weapons/weapon1704045375669.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045372/FlameForge/weapons/weapon1704045385047.webp"
+    }
+  }
+]

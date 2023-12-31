@@ -1,0 +1,23 @@
+[
+  {
+    "name": "A Thousand Floating Dreams",
+    "desc": "This lamp illuminates the dreams that float up over a thousand nights, and in its emerald-green light flows a song of ancient days.",
+    "rarity": 5,
+    "source": "Event Wish Exclusive",
+    "passive": "Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by 32. If not, increase the equipping character's DMG Bonus from their Elemental Type by 10%. Each of the aforementioned effects can have up to 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by 40. Multiple such effects from multiple such weapons can stack.",
+    "versionRelease": "3.2",
+    "region": "Sumeru",
+    "family": "Catalyst",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n14511/?lang=EN",
+    "affix": "A Thousand Nights' Dawnsong",
+    "baseAtk": 44.34,
+    "baseSubStat": 57.6,
+    "subStatType": "Elemental Mastery",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045256/FlameForge/weapons/weapon1704045268978.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045266/FlameForge/weapons/weapon1704045278475.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045275/FlameForge/weapons/weapon1704045288113.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045285/FlameForge/weapons/weapon1704045297973.webp"
+    }
+  }
+]

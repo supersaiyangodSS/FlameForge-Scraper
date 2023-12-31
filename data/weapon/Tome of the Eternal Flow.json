@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Tome of the Eternal Flow",
+    "desc": "A manual that was once passed down from generation to generation within an underwater priory. Today, none know of its existence.",
+    "rarity": 5,
+    "source": "Event Wish Exclusive",
+    "passive": "HP is increased by 16%. When current HP increases or decreases, Charged Attack DMG will be increased by 14% for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the character has 3 stacks or a third stack's duration refreshes, 8 Energy will be restored. This Energy restoration effect can be triggered once every 12s.",
+    "versionRelease": "4.1",
+    "region": "Fontaine",
+    "family": "Catalyst",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n14514/?lang=EN",
+    "affix": "Aeon Wave",
+    "baseAtk": 44.34,
+    "baseSubStat": 19.2,
+    "subStatType": "Critical Damage %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045668/FlameForge/weapons/weapon1704045681853.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045677/FlameForge/weapons/weapon1704045689890.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045690/FlameForge/weapons/weapon1704045701558.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045699/FlameForge/weapons/weapon1704045711842.webp"
+    }
+  }
+]

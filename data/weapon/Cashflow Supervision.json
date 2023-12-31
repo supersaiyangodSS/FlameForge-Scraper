@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Cashflow Supervision",
+    "desc": "A floating device that can monitor certain phenomena. It was picked up and modified to serve other purposes following its abandonment.",
+    "rarity": 5,
+    "source": "Event Wish Exclusive",
+    "passive": "ATK is increased by 16%. When current HP increases or decreases, Normal Attack DMG will be increased by 16% and Charged Attack DMG will be increased by 14% for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the wielder has 3 stacks, ATK SPD will be increased by 8%.",
+    "versionRelease": "4.1",
+    "region": "Fontaine",
+    "family": "Catalyst",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n14513/?lang=EN",
+    "affix": "Golden Blood-Tide",
+    "baseAtk": 47.54,
+    "baseSubStat": 4.8,
+    "subStatType": "Critical Rate %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045383/FlameForge/weapons/weapon1704045395814.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045394/FlameForge/weapons/weapon1704045404944.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045402/FlameForge/weapons/weapon1704045414593.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704045412/FlameForge/weapons/weapon1704045425306.webp"
+    }
+  }
+]
