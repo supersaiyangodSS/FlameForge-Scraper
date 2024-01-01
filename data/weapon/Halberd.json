@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Halberd",
+    "desc": "A polearm with an axe blade mounted on top that can deal quite a lot of damage. It's favored by the Millelith officers.",
+    "rarity": 3,
+    "source": "Chests (Liyue)",
+    "passive": "Normal Attacks deal an additional 160% ATK as DMG. Can only occur once every 10s.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Polearm",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n13302/?lang=EN",
+    "affix": "Heavy",
+    "baseAtk": 39.88,
+    "baseSubStat": 5.11,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088385/FlameForge/weapons/weapon1704088399206.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088395/FlameForge/weapons/weapon1704088408169.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088406/FlameForge/weapons/weapon1704088419109.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088417/FlameForge/weapons/weapon1704088431561.webp"
+    }
+  }
+]

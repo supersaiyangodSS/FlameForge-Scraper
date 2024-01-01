@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Black Tassel",
+    "desc": "An exceptionally powerful polearm that also offers a simple but elegant solution to the issue of the easily stained white tassel.",
+    "rarity": 3,
+    "source": "Wish",
+    "passive": "Increases DMG against slimes by 40%.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Polearm",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n13303/?lang=EN",
+    "affix": "Bane of the Soft",
+    "baseAtk": 37.61,
+    "baseSubStat": 10.21,
+    "subStatType": "Health %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088251/FlameForge/weapons/weapon1704088264807.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088261/FlameForge/weapons/weapon1704088273838.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088272/FlameForge/weapons/weapon1704088285825.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088281/FlameForge/weapons/weapon1704088295276.webp"
+    }
+  }
+]

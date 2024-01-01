@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Missive Windspear",
+    "desc": "A beacon that shows the direction of the wind. Not every idyll carried on the breeze remains a gentle thing...",
+    "rarity": 4,
+    "source": "Version 3.1 Event - Of Ballads and Brews",
+    "passive": "Within 10s after an Elemental Reaction is triggered, ATK is increased by 12% and Elemental Mastery is increased by 48.",
+    "versionRelease": "3.1",
+    "region": "Mondstadt",
+    "family": "Polearm",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n13419/?lang=EN",
+    "affix": "The Wind Unattained",
+    "baseAtk": 42.4,
+    "baseSubStat": 9,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088471/FlameForge/weapons/weapon1704088485639.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088481/FlameForge/weapons/weapon1704088494291.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088493/FlameForge/weapons/weapon1704088504967.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088503/FlameForge/weapons/weapon1704088517216.webp"
+    }
+  }
+]

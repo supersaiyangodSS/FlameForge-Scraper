@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Staff of the Scarlet Sands",
+    "desc": "One of a paired set of scepters fashioned from obsidian. Legend has it that these staves grant the right to lead the people of the desert, but no retainer now lives who can verify the proper appearance of these regalia.",
+    "rarity": 5,
+    "source": "Event Wish Exclusive",
+    "passive": "The equipping character gains 52% of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain 28% of their Elemental Mastery as bonus ATK. Max 3 stacks.",
+    "versionRelease": "3.1",
+    "region": "Sumeru",
+    "family": "Polearm",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n13511/?lang=EN",
+    "affix": "Heat Haze at Horizon's End",
+    "baseAtk": 44.34,
+    "baseSubStat": 9.6,
+    "subStatType": "Critical Rate %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088639/FlameForge/weapons/weapon1704088653392.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088648/FlameForge/weapons/weapon1704088661544.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088660/FlameForge/weapons/weapon1704088672869.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088671/FlameForge/weapons/weapon1704088684631.webp"
+    }
+  }
+]

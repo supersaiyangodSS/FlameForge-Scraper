@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Prospector's Drill",
+    "desc": "A long-handled drill that you can rarely find nowadays. It was often used in delving and in carving stones.",
+    "rarity": 4,
+    "source": "Event Wish Exclusive",
+    "passive": "When the wielder is healed or heals others, they will gain a Unity's Symbol that lasts 30s, up to a maximum of 3 Symbols. When using their Elemental Skill or Burst, all Symbols will be consumed and the Struggle effect will be granted for 10s. For each Symbol consumed, gain 3% ATK and 7% All Elemental DMG Bonus. The Struggle effect can be triggered once every 15s, and Symbols can be gained even when the character is not on the field.",
+    "versionRelease": "4.1",
+    "region": "Fontaine",
+    "family": "Polearm",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n13427/?lang=EN",
+    "affix": "Masons' Ditty",
+    "baseAtk": 43.73,
+    "baseSubStat": 6,
+    "subStatType": "Attack %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088554/FlameForge/weapons/weapon1704088567890.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088565/FlameForge/weapons/weapon1704088578016.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088578/FlameForge/weapons/weapon1704088592254.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088587/FlameForge/weapons/weapon1704088601381.webp"
+    }
+  }
+]

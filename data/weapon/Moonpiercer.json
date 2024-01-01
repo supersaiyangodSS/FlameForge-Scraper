@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Moonpiercer",
+    "desc": "A weapon you obtained from an Aranara tale. It is shaped like a giant arrow and can be used as a spear.",
+    "rarity": 4,
+    "source": "Forged",
+    "passive": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character 16% ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field.",
+    "versionRelease": "3.0",
+    "region": "Sumeru",
+    "family": "Polearm",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n13417/?lang=EN",
+    "affix": "Stillwood Moonshadow",
+    "baseAtk": 43.73,
+    "baseSubStat": 24,
+    "subStatType": "Elemental Mastery",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088514/FlameForge/weapons/weapon1704088528127.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088524/FlameForge/weapons/weapon1704088538229.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088534/FlameForge/weapons/weapon1704088547680.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704088543/FlameForge/weapons/weapon1704088556786.webp"
+    }
+  }
+]
