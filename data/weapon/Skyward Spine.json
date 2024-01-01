@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Skyward Spine",
+    "desc": "A polearm that symbolizes Dvalin's firm resolve. The upright shaft of this weapon points towards the heavens, clad in the might of sky and wind.",
+    "rarity": 5,
+    "source": "Wish",
+    "passive": "Increases CRIT Rate by 8% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 40% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+    "versionRelease": "1.0",
+    "region": "Mondstadt",
+    "family": "Polearm",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n13502/?lang=EN",
+    "affix": "Black Wing",
+    "baseAtk": 47.54,
+    "baseSubStat": 8,
+    "subStatType": "Energy Recharge %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108813/FlameForge/weapons/weapon1704108828048.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108823/FlameForge/weapons/weapon1704108837076.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108832/FlameForge/weapons/weapon1704108846509.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108841/FlameForge/weapons/weapon1704108855424.webp"
+    }
+  }
+]

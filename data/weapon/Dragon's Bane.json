@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Dragon's Bane",
+    "desc": "A polearm decorated with an entwining golden dragon. Light and sharp, this weapon may very well kill dragons with ease.",
+    "rarity": 4,
+    "source": "Wish",
+    "passive": "Increases DMG against opponents affected by Hydro or Pyro by 20%.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Polearm",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n13401/?lang=EN",
+    "affix": "Bane of Flame and Water",
+    "baseAtk": 41.07,
+    "baseSubStat": 48,
+    "subStatType": "Elemental Mastery",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108472/FlameForge/weapons/weapon1704108486930.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108482/FlameForge/weapons/weapon1704108495523.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108493/FlameForge/weapons/weapon1704108507101.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108502/FlameForge/weapons/weapon1704108516548.webp"
+    }
+  }
+]

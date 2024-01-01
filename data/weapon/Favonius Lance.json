@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Favonius Lance",
+    "desc": "A polearm made in the style of the Knights of Favonius. Its shaft is straight, and its tip flows lightly like the wind.",
+    "rarity": 4,
+    "source": "Wish",
+    "passive": "CRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s.",
+    "versionRelease": "1.0",
+    "region": "Mondstadt",
+    "family": "Polearm",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n13407/?lang=EN",
+    "affix": "Windfall",
+    "baseAtk": 43.73,
+    "baseSubStat": 6.67,
+    "subStatType": "Energy Recharge %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108552/FlameForge/weapons/weapon1704108567249.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108561/FlameForge/weapons/weapon1704108575141.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108570/FlameForge/weapons/weapon1704108584792.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108580/FlameForge/weapons/weapon1704108594808.webp"
+    }
+  }
+]

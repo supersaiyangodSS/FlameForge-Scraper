@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Primordial Jade Winged-Spear",
+    "desc": "A jade polearm made by the archons, capable of slaying ancient beasts.",
+    "rarity": 5,
+    "source": "Wish",
+    "passive": "On hit, increases ATK by 3.2% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by 12%.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Polearm",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n13505/?lang=EN",
+    "affix": "Eagle Spear of Justice",
+    "baseAtk": 47.54,
+    "baseSubStat": 4.8,
+    "subStatType": "Critical Rate %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108681/FlameForge/weapons/weapon1704108695839.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108689/FlameForge/weapons/weapon1704108703756.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108705/FlameForge/weapons/weapon1704108720451.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108715/FlameForge/weapons/weapon1704108730185.webp"
+    }
+  }
+]

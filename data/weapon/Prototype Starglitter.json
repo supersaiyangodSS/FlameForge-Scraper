@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Prototype Starglitter",
+    "desc": "A hooked spear discovered hidden away in the Blackcliff Forge. The glimmers along the sharp edge are like stars in the night.",
+    "rarity": 4,
+    "source": "Forged",
+    "passive": "After using an Elemental Skill, increases Normal and Charged Attack DMG by 8% for 12s. Max 2 stacks.",
+    "versionRelease": "1.0",
+    "region": "Liyue",
+    "family": "Polearm",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n13402/?lang=EN",
+    "affix": "Magic Affinity",
+    "baseAtk": 42.4,
+    "baseSubStat": 10,
+    "subStatType": "Energy Recharge %",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108728/FlameForge/weapons/weapon1704108743317.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108738/FlameForge/weapons/weapon1704108751689.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108750/FlameForge/weapons/weapon1704108763381.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108760/FlameForge/weapons/weapon1704108774485.webp"
+    }
+  }
+]

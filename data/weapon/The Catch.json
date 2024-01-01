@@ -1,0 +1,21 @@
+[{
+  "name": "The Catch",
+  "desc": "In the distant past, this was the beloved spear of a famed Inazuman bandit.",
+  "rarity": 4,
+  "source": "Exchange at the Inazuma Fishing Association",
+  "passive": "Increases Elemental Burst DMG by 16% and Elemental Burst CRIT Rate by 6%.",
+  "versionRelease": "2.1",
+  "region": "Inazuma",
+  "family": "Polearm",
+  "wikiUrl": "https://genshin.honeyhunterworld.com/i_n13415/?lang=EN",
+  "affix": "Shanty",
+  "baseAtk": 42.4,
+  "baseSubStat": 10,
+  "subStatType": "Energy Recharge %",
+  "images": {
+    "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108893/FlameForge/weapons/weapon1704108908185.webp",
+    "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108901/FlameForge/weapons/weapon1704108915773.png",
+    "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108911/FlameForge/weapons/weapon1704108924412.png",
+    "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108920/FlameForge/weapons/weapon1704108934436.webp"
+  }
+}]

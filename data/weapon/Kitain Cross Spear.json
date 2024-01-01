@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Kitain Cross Spear",
+    "desc": "A special lance that was once used by a famed warrior who guarded the Tatarigami on Yashiori Island.",
+    "rarity": 4,
+    "source": "Forged",
+    "passive": "Increases Elemental Skill DMG by 6%. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates 3 Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field.",
+    "versionRelease": "2.0",
+    "region": "Inazuma",
+    "family": "Polearm",
+    "wikiUrl": "https://genshin.honeyhunterworld.com/i_n13414/?lang=EN",
+    "affix": "Samurai Conduct",
+    "baseAtk": 43.73,
+    "baseSubStat": 24,
+    "subStatType": "Elemental Mastery",
+    "images": {
+      "icon": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108597/FlameForge/weapons/weapon1704108612192.webp",
+      "original": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108606/FlameForge/weapons/weapon1704108620814.png",
+      "awakened": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108616/FlameForge/weapons/weapon1704108630017.png",
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1704108626/FlameForge/weapons/weapon1704108640696.webp"
+    }
+  }
+]
