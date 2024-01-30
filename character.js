@@ -2,7 +2,7 @@ import puppeteer from 'puppeteer';
 import fs from 'fs/promises';
 import saveFile from './helper/saveFile.js';
 
-const url = 'https://wiki.hoyolab.com/pc/genshin/entry/1'
+const url = 'https://wiki.hoyolab.com/pc/genshin/entry/4774'
 
 const scraper = async () => {
   const browser = await puppeteer.launch();

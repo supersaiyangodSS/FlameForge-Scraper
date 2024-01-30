@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Chevreuse",
+    "birthday": "1/10",
+    "constellation": "Sclopetum Ensiferum",
+    "title": "Executor of Justice",
+    "vision": "Pyro",
+    "affiliation": "Special Security and Surveillance Patrol",
+    "versionRelease": 4.3,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1706627067/FlameForge/characters/character1706627065072.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1706627090/FlameForge/characters/character1706627088067.png",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1706627159/FlameForge/characters/character1706627159269.png"
+    },
+    "desc": "The captain of the Special Security and Surveillance Patrol, who wears justice as an ever-present seal upon her heart. Her musket shall only ever point at the guilty.",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/4577",
+    "cdata": [
+      "4-Star",
+      "HP",
+      "Pyro",
+      "Polearm",
+      "Fontaine"
+    ],
+    "rarity": 4,
+    "weapon": "Polearm",
+    "region": "Fontaine"
+  }
+]
