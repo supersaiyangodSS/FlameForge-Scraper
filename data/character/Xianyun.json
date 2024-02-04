@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Xianyun",
+    "birthday": "4/11",
+    "constellation": "Grus Serena",
+    "title": "Passerine Herald",
+    "vision": "Anemo",
+    "affiliation": "Mt. Aocang",
+    "versionRelease": 4.4,
+    "images": {
+      "gacha": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1707068005/FlameForge/characters/character1707068002945.png",
+      "card": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1707068019/FlameForge/characters/character1707068018219.png",
+      "profile": "http://res.cloudinary.com/dusbvc8ox/image/upload/v1707068046/FlameForge/characters/character1707068045603.webp"
+    },
+    "desc": "One of the Mighty and Illuminated Adepti of Jueyun, known as \"Cloud Retainer.\" Expert in all kinds of mechanical contraptions, her heart now turns towards the affairs of the mortal world, through which she walks under the name \"Xianyun.\"",
+    "wikiUrl": "https://wiki.hoyolab.com/pc/genshin/entry/4774",
+    "cdata": [
+      "Anemo",
+      "Catalyst",
+      "ATK",
+      "5-Star",
+      "Liyue Harbor"
+    ],
+    "rarity": 5,
+    "weapon": "Catalyst",
+    "region": "Liyue Harbor"
+  }
+]
